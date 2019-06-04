@@ -1,0 +1,538 @@
+['Came', 'here', 'for', 'launch', 'me', 'and', 'my', 'brother', '...', '...', '.Ordar', 'Chicken', 'biryani', '2', 'plates', '...', '...', '.Chicken', 'biryani', 'is', 'not', 'a', 'testy', '...', '...', '...', '...', '...', '...', '...', '...', '..I', 'have', 'ordar', 'spical', 'Chicken', 'biryani', '2', 'plates', '...', '.And', 'Chicken', 'kasha', '...', '...', '..Biryani', 'quality', 'was', 'good', '...', '.Chicken', 'kasha', '...', '..', 'is', 'good', '...', '...']['Came', 'here', 'for', 'launch', 'me', 'and', 'my', 'brother', '...', '...', '.Ordar', 'Chicken', 'biryani', '2', 'plates', '...', '...', '.Chicken', 'biryani', 'is', 'not', 'a', 'testy', '...', '...', '...', '...', '...', '...', '...', '...', '..I', 'have', 'ordar', 'spical', 'Chicken', 'biryani', '2', 'plates', '...', '.And', 'Chicken', 'kasha', '...', '...', '..Biryani', 'quality', 'was', 'good', '...', '.Chicken', 'kasha', '...', '..', 'is', 'good', '...', '...']
+ ------------------ 
+['Delivery', 'is', 'goodMy', 'friends', '...', '...', '...', '..', 'form', 'this', 'place', 'my', 'birthday', 'party', '...', '...', '...', '...', '..8', 'plates', 'Chicken', 'biryani', '...', '...', '...', '.Chicken', 'biryani', 'is', 'very', 'good', 'testy', '...', 'Good', 'tasty', 'food', '...', '.Nice', 'packageing', '...', '.I', 'have', 'been', 'ordar', 'here', '4', 'time', 'in', 'a', 'week', '...', 'It', 'was', 'truly', 'delicious', '...', '...', '.Next', 'week', 'I', 'also', 'order', 'here', '...', '.']['Delivery', 'is', 'goodMy', 'friends', '...', '...', '...', '..', 'form', 'this', 'place', 'my', 'birthday', 'party', '...', '...', '...', '...', '..8', 'plates', 'Chicken', 'biryani', '...', '...', '...', '.Chicken', 'biryani', 'is', 'very', 'good', 'testy', '...', 'Good', 'tasty', 'food', '...', '.Nice', 'packageing', '...', '.I', 'have', 'been', 'ordar', 'here', '4', 'time', 'in', 'a', 'week', '...', 'It', 'was', 'truly', 'delicious', '...', '...', '.Next', 'week', 'I', 'also', 'order', 'here', '...', '.']
+ ------------------ 
+['Thanks', 'to', 'all', '...', 'This', 'is', 'the', 'decent', 'looking', 'food', 'stall', 'among', 'the', 'lot', '.']['Thanks', 'to', 'all', '...', 'This', 'is', 'the', 'decent', 'looking', 'food', 'stall', 'among', 'the', 'lot', '.']
+ ------------------ 
+['So', 'thought', 'that', 'quality', 'might', 'be', 'better', 'but', 'then', 'when', 'food', 'arrived', 'it', 'tasted', 'like', 'other', 'food', 'stalls', '.']['So', 'thought', 'that', 'quality', 'might', 'be', 'better', 'but', 'then', 'when', 'food', 'arrived', 'it', 'tasted', 'like', 'other', 'food', 'stalls', '.']
+ ------------------ 
+['Only', 'thing', 'I', 'liked', 'was', 'the', 'amount', 'of', 'chicken', 'pieces', 'were', 'okay', 'not', 'like', 'most', 'street', 'food', 'stalls.Located', 'near', 'New', 'Town', 'bus', 'stand', '.']['Only', 'thing', 'I', 'liked', 'was', 'the', 'amount', 'of', 'chicken', 'pieces', 'were', 'okay', 'unlike', 'most', 'street', 'food', 'stalls.Located', 'near', 'New', 'Town', 'bus', 'stand', '.']
+ ------------------ 
+['Very', 'crowded', 'place', '.']['Very', 'crowded', 'place', '.']
+ ------------------ 
+['You', 'can', 'find', 'lot', 'of', 'fast', 'food', 'items', '.']['You', 'can', 'find', 'lot', 'of', 'fast', 'food', 'items', '.']
+ ------------------ 
+['I', 'have', 'tired', 'noodles', 'and', 'chilli', 'chicken', '.']['I', 'have', 'tired', 'noodles', 'and', 'chilli', 'chicken', '.']
+ ------------------ 
+['Food', 'quality', 'is', 'really', 'bad', '.']['Food', 'quality', 'is', 'really', 'bad', '.']
+ ------------------ 
+['People', 'simply', 'go', 'there', 'because', 'no', 'other', 'place', 'is', 'available', 'for', 'fast', 'foods.Seen', 'this', 'place', 'from', 'distance', 'but', 'tasted', 'the', 'Biryani', 'recently', '.']['People', 'simply', 'go', 'there', 'because', 'no', 'other', 'place', 'is', 'available', 'for', 'fast', 'foods.Seen', 'this', 'place', 'from', 'distance', 'but', 'tasted', 'the', 'Biryani', 'recently', '.']
+ ------------------ 
+['Took', 'a', 'Parcel', 'and', 'had', 'it', 'at', 'home', '.']['Took', 'a', 'Parcel', 'and', 'had', 'it', 'at', 'home', '.']
+ ------------------ 
+['The', 'Biryani', 'was', 'really', 'nice', 'compared', 'to', 'many', 'small', 'or', 'medium', 'joints', '.']['The', 'Biryani', 'was', 'really', 'nice', 'compared', 'to', 'many', 'small', 'or', 'medium', 'joints', '.']
+ ------------------ 
+['Flavoured', 'well', 'and', 'had', 'a', 'very', 'juicy', 'mutton', 'inside', '.']['Flavoured', 'well', 'and', 'had', 'a', 'very', 'juicy', 'mutton', 'inside', '.']
+ ------------------ 
+['Would', 'love', 'to', 'try', 'something', 'else', 'and', 'update', 'my', 'feedback.Located', 'near', 'Newtown', 'Bus', 'Terminus', ',', 'action', 'area', '1..we', 'ordered', 'laccha', 'paratha', 'wid', 'garlic', 'chicken', 'and', 'those', 'were', 'very', 'tasty..it', 'is', 'a', 'pocket', 'friendly', 'restaurant', 'I', 'must', 'say.The', 'place', 'is', 'not', 'hygienic', 'but', 'it', 'is', 'quite', 'pocket', 'friendly', '.']['Would', 'love', 'to', 'try', 'something', 'else', 'and', 'update', 'my', 'feedback.Located', 'near', 'Newtown', 'Bus', 'Terminus', ',', 'action', 'area', '1..we', 'ordered', 'laccha', 'paratha', 'wid', 'garlic', 'chicken', 'and', 'those', 'were', 'very', 'tasty..it', 'is', 'a', 'pocket', 'friendly', 'restaurant', 'I', 'must', 'say.The', 'place', 'is', 'not', 'hygienic', 'but', 'it', 'is', 'quite', 'pocket', 'friendly', '.']
+ ------------------ 
+['I', 'often', 'order', 'from', 'here', 'and', 'they', 'provide', 'free', 'home', 'delivery', '.']['I', 'often', 'order', 'from', 'here', 'and', 'they', 'provide', 'free', 'home', 'delivery', '.']
+ ------------------ 
+['I', 'once', 'had', 'chicken', 'biriyani', ',', 'lacha', 'paratha', 'and', 'butter', 'panner', '.']['I', 'once', 'had', 'chicken', 'biriyani', ',', 'lacha', 'paratha', 'and', 'butter', 'panner', '.']
+ ------------------ 
+['Every', 'item', 'tasted', 'good', 'and', 'the', 'veg', 'fried', 'rice', 'and', 'chicken', '65', 'is', 'average.This', 'place', 'has', 'again', 'revived', '.']['Every', 'item', 'tasted', 'good', 'and', 'the', 'veg', 'fried', 'rice', 'and', 'chicken', '65', 'is', 'average.This', 'place', 'has', 'again', 'revived', '.']
+ ------------------ 
+['There', 'biriyani', 'compared', 'to', 'its', 'price', 'is', 'quite', 'good', '.']['There', 'biriyani', 'compared', 'to', 'its', 'price', 'is', 'quite', 'good', '.']
+ ------------------ 
+['There', 'egg', 'chicken', 'rolls', 'are', 'an', 'absolute', 'must', '.']['There', 'egg', 'chicken', 'rolls', 'are', 'an', 'absolute', 'must', '.']
+ ------------------ 
+['Even', 'the', 'reshmi', 'kebabs', 'are', 'worth', 'a', 'try', '.']['Even', 'the', 'reshmi', 'kebabs', 'are', 'worth', 'a', 'try', '.']
+ ------------------ 
+['The', 'service', 'is', 'fast', 'and', 'food', 'is', 'affordable.Ordered', 'rice', 'n', 'chicken', '...', '.', 'Not', 'sooo', 'good', '...', 'but', 'really', 'hated', 'd', 'reshmi', 'kabab', '.']['The', 'service', 'is', 'fast', 'and', 'food', 'is', 'affordable.Ordered', 'rice', 'n', 'chicken', '...', '.', 'Not', 'sooo', 'good', '...', 'but', 'really', 'hated', 'd', 'reshmi', 'kabab', '.']
+ ------------------ 
+['Quality', 'has', 'deteoriated', '...', '.']['Quality', 'has', 'deteoriated', '...', '.']
+ ------------------ 
+['Earlier', 'it', 'was', 'much', 'better', '...', 'D', 'rice', 'was', 'normal', '.']['Earlier', 'it', 'was', 'much', 'better', '...', 'D', 'rice', 'was', 'normal', '.']
+ ------------------ 
+['Chili', 'chicken', 'was', 'still', 'betterRoadside', 'joint', 'near', 'New', 'Town', 'Bus', 'Terminus', ',', 'a', 'ho', 'hum', 'ambience', '.']['Chili', 'chicken', 'was', 'still', 'betterRoadside', 'joint', 'near', 'New', 'Town', 'Bus', 'Terminus', ',', 'a', 'ho', 'hum', 'ambience', '.']
+ ------------------ 
+['But', 'decent', 'mutton', 'biryani', '@', '140', 'or', 'less', 'per', 'plate', '!']['But', 'decent', 'mutton', 'biryani', '@', '140', 'or', 'less', 'per', 'plate', '!']
+ ------------------ 
+['PS', '-', 'They', 'also', 'make', 'a', 'greasy', ',', 'sinful', 'chicken', 'chaap', 'that', 'will', 'pick', 'you', 'up', 'on', 'the', 'most', 'boring', 'of', 'workdays', '!', 'The', 'place', 'is', 'not', 'so', 'good', 'from', 'hygiene', '.']['PS', '-', 'They', 'also', 'make', 'a', 'greasy', ',', 'sinful', 'chicken', 'chaap', 'that', 'will', 'pick', 'you', 'up', 'on', 'the', 'most', 'boring', 'of', 'workdays', '!', 'The', 'place', 'is', 'not', 'so', 'good', 'from', 'hygiene', '.']
+ ------------------ 
+['But', 'that', 'is', 'compensated', 'with', 'good', 'quality', 'of', 'food', '.']['But', 'that', 'is', 'compensated', 'with', 'good', 'quality', 'of', 'food', '.']
+ ------------------ 
+['It', 'is', 'quite', 'pocket', 'friendly', 'also', '.']['It', 'is', 'quite', 'pocket', 'friendly', 'also', '.']
+ ------------------ 
+['Me', 'and', 'my', 'friends', 'went', 'there', 'and', 'tried', 'the', 'fried', 'rice', 'and', 'chilly', 'chicken', '.']['Me', 'and', 'my', 'friends', 'went', 'there', 'and', 'tried', 'the', 'fried', 'rice', 'and', 'chilly', 'chicken', '.']
+ ------------------ 
+['The', 'fried', 'rice', 'was', 'a', 'bit', 'too', 'oily', 'but', 'the', 'quantity', 'was', 'good', '.']['The', 'fried', 'rice', 'was', 'a', 'bit', 'too', 'oily', 'but', 'the', 'quantity', 'was', 'good', '.']
+ ------------------ 
+['1', 'plate', 'was', 'enough', 'for', '2', 'people', '.']['1', 'plate', 'was', 'enough', 'for', '2', 'people', '.']
+ ------------------ 
+['The', 'chilly', 'chicken', 'tasted', 'good', 'and', 'was', 'good', 'in', 'quality.Today', 'me', 'and', 'my', 'friend', 'going', 'to', 'this', 'place', '&', 'orderd', 'Tandoori', 'chiken', '1plate.They', 'serve', 'in', 'a', 'tharmocol', 'plate', '.']['The', 'chilly', 'chicken', 'tasted', 'good', 'and', 'was', 'good', 'in', 'quality.Today', 'me', 'and', 'my', 'friend', 'going', 'to', 'this', 'place', '&', 'orderd', 'Tandoori', 'chiken', '1plate.They', 'serve', 'in', 'a', 'tharmocol', 'plate', '.']
+ ------------------ 
+['&', 'Taste', 'was', 'so', 'bad', '.']['&', 'Taste', 'was', 'so', 'bad', '.']
+ ------------------ 
+['Its', 'just', 'waste', 'of', 'money.', '?', '?', '?', '?', '?', '?', '?']['Its', 'just', 'waste', 'of', 'money.', '?', '?', '?', '?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?', '?']['?', '?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?']['?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?', '?']['?', '?', '?', '?', '?']
+ ------------------ 
+['?']['?']
+ ------------------ 
+['?', '?', '?', '?', '?']['?', '?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?', '?', '?', '?', '?']['?', '?', '?', '?', '?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?', '?', '?', '?', '?', '?']['?', '?', '?', '?', '?', '?', '?', '?', '?']
+ ------------------ 
+['?']['?']
+ ------------------ 
+['?', '?', '?', '?']['?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?']['?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?']['?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?']['?', '?', '?']
+ ------------------ 
+['?']['?']
+ ------------------ 
+['?', '?', '?', '?', '?', '?', '?', '?']['?', '?', '?', '?', '?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?', '?', '?']['?', '?', '?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?', '?']['?', '?', '?', '?', '?']
+ ------------------ 
+['?']['?']
+ ------------------ 
+['?', '?', '?']['?', '?', '?']
+ ------------------ 
+['?', '?', '?']['?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?', '?', '?']['?', '?', '?', '?', '?', '?']
+ ------------------ 
+['?']['?']
+ ------------------ 
+['?', '?', '?']['?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?', '?', '?']['?', '?', '?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?']['?', '?', '?', '?']
+ ------------------ 
+['?']['?']
+ ------------------ 
+['?', '?', '?', '?']['?', '?', '?', '?']
+ ------------------ 
+['?', '?', '?', '?', '?']['?', '?', '?', '?', '?']
+ ------------------ 
+['?', 'Me', 'and', 'my', 'friend', 'had', 'Chicken', 'Resmi', 'Kebab', 'and', 'Chicken', 'Chowmein', 'from', 'here', '.']['?', 'Me', 'and', 'my', 'friend', 'had', 'Chicken', 'Resmi', 'Kebab', 'and', 'Chicken', 'Chowmein', 'from', 'here', '.']
+ ------------------ 
+['Kebabs', 'were', 'very', 'tasty', ',', 'perfect', 'marination', 'and', 'Chicken', 'Chowmein', 'was', 'great', 'too', '.']['Kebabs', 'were', 'very', 'tasty', ',', 'perfect', 'marination', 'and', 'Chicken', 'Chowmein', 'was', 'great', 'too', '.']
+ ------------------ 
+['The', 'chowmein', 'in', 'Kolkata', 'has', 'a', 'different', 'and', 'satisfying', 'taste', 'and', 'here', 'that', 'taste', 'was', 'present', 'as', 'well.This', 'is', 'a', 'small', 'eatery', 'at', 'New', 'Town', 'Bus', 'Stand', 'beside', 'Mio', 'Amore', '.']['The', 'chowmein', 'in', 'Kolkata', 'has', 'a', 'different', 'and', 'satisfying', 'taste', 'and', 'here', 'that', 'taste', 'was', 'present', 'as', 'well.This', 'is', 'a', 'small', 'eatery', 'at', 'New', 'Town', 'Bus', 'Stand', 'beside', 'Mio', 'Amore', '.']
+ ------------------ 
+['Ordered', 'plain', 'rice', ',', 'kashmiri', 'aloo', 'dum', ',', 'mutton', 'biriyani', '.']['Ordered', 'plain', 'rice', ',', 'kashmiri', 'aloo', 'dum', ',', 'mutton', 'biriyani', '.']
+ ------------------ 
+['Though', 'the', 'food', 'is', 'okay', 'but', 'the', 'outdoor', 'seating', 'is', 'not', 'that', 'good.Just', 'try', 'there', 'Kabiraji..', 'u', 'will', 'love', 'it..', 'FooD', 'Quality', 'is', 'Above', 'Average', '.']['Though', 'the', 'food', 'is', 'okay', 'but', 'the', 'outdoor', 'seating', 'is', 'not', 'that', 'good.Just', 'try', 'there', 'Kabiraji..', 'u', 'will', 'love', 'it..', 'FooD', 'Quality', 'is', 'Above', 'Average', '.']
+ ------------------ 
+['U', 'will', 'love..', 'just', 'bring', 'your', 'friends..', 'Make', 'a', '``', 'ADDA', "''", 'and', 'u', 'will', 'have', 'GooD', 'time..Used', 'to', 'home', 'deliver', 'food', 'from', 'here', 'at', 'our', 'hostel', '.']['U', 'will', 'love..', 'just', 'bring', 'your', 'friends..', 'Make', 'a', '``', 'ADDA', "''", 'and', 'u', 'will', 'have', 'GooD', 'time..Used', 'to', 'home', 'deliver', 'food', 'from', 'here', 'at', 'our', 'hostel', '.']
+ ------------------ 
+['The', 'minimum', 'order', 'rate', 'was', 'pretty', 'high', 'for', 'one', 'or', 'two', 'people', 'but', 'it', 'is', 'affordable', 'when', 'ordered', 'in', 'group', '.']['The', 'minimum', 'order', 'rate', 'was', 'pretty', 'high', 'for', 'one', 'or', 'two', 'people', 'but', 'it', 'is', 'affordable', 'when', 'ordered', 'in', 'group', '.']
+ ------------------ 
+['The', 'food', 'reached', 'really', 'late', 'on', 'Sundays', '.']['The', 'food', 'reached', 'really', 'late', 'on', 'Sundays', '.']
+ ------------------ 
+['But', 'the', 'quality', 'of', 'the', 'food', 'is', 'great', '.']['But', 'the', 'quality', 'of', 'the', 'food', 'is', 'great', '.']
+ ------------------ 
+['Worth', 'the', 'dime', '.']['Worth', 'the', 'dime', '.']
+ ------------------ 
+['Chicken', 'used', 'to', 'be', 'well', 'cooked.You', 'cant', 'actually', 'rate', 'a', 'place', 'like', 'this', '...', 'quality', 'went', 'down', 'pretty', 'muchh', 'in', 'past', 'few', 'month', '.']['Chicken', 'used', 'to', 'be', 'well', 'cooked.You', 'cant', 'actually', 'rate', 'a', 'place', 'like', 'this', '...', 'quality', 'went', 'down', 'pretty', 'muchh', 'in', 'past', 'few', 'month', '.']
+ ------------------ 
+['Today', 'i', 'found', 'a', 'metal', 'wire', 'from', 'the', 'packet', 'of', 'the', 'biriyani', ',', '...', 'besides', 'i', 'gave', '1.0', 'rating', 'because', 'the', 'wire', 'i', 'found', 'was', 'well', 'cooked.A', 'nearby', 'place', 'from', 'DLF1', '(', 'my', 'office', ')', ',', 'hence', 'whenever', 'there', 'is', 'a', 'very', 'small', 'lunch', 'plans', ',', 'we', 'most', 'conveniently', 'order', 'from', 'this', 'place', '.']['Today', 'i', 'found', 'a', 'metal', 'wire', 'from', 'the', 'packet', 'of', 'the', 'biriyani', ',', '...', 'besides', 'i', 'gave', '1.0', 'rating', 'because', 'the', 'wire', 'i', 'found', 'was', 'well', 'cooked.A', 'nearby', 'place', 'from', 'DLF1', '(', 'my', 'office', ')', ',', 'hence', 'whenever', 'there', 'is', 'a', 'very', 'small', 'lunch', 'plans', ',', 'we', 'most', 'conveniently', 'order', 'from', 'this', 'place', '.']
+ ------------------ 
+['The', 'taste', 'is', 'good', 'and', 'the', 'quantities', 'are', 'quite', 'huge', '.']['The', 'taste', 'is', 'good', 'and', 'the', 'quantities', 'are', 'quite', 'huge', '.']
+ ------------------ 
+['We', 'ordered', 'chicken', 'noodles', ',', 'egg', 'chicken', 'biriyani', ',', 'tangdi', 'kabab', 'and', 'tandoori', '(', 'non', 'enough', 'tangdis', 'were', 'available', ')', '.']['We', 'ordered', 'chicken', 'noodles', ',', 'egg', 'chicken', 'biriyani', ',', 'tangdi', 'kabab', 'and', 'tandoori', '(', 'non', 'enough', 'tangdis', 'were', 'available', ')', '.']
+ ------------------ 
+['The', 'noodles', 'tasted', 'quite', 'good', ',', 'the', 'kebabs', 'were', 'good', 'but', 'a', 'little', 'too', 'dry', ',', 'may', 'be', 'they', 'were', 'meant', 'to', 'be', 'dry', 'but', 'I', 'prefer', 'the', 'juicy', 'ones', '.']['The', 'noodles', 'tasted', 'quite', 'good', ',', 'the', 'kebabs', 'were', 'good', 'but', 'a', 'little', 'too', 'dry', ',', 'may', 'be', 'they', 'were', 'meant', 'to', 'be', 'dry', 'but', 'I', 'prefer', 'the', 'juicy', 'ones', '.']
+ ------------------ 
+['The', 'biriyani', 'was', 'good', 'too', ',', 'and', 'the', 'quantity', 'ok-ish', ',', 'enough', 'for', 'single', 'person', '.']['The', 'biriyani', 'was', 'good', 'too', ',', 'and', 'the', 'quantity', 'ok-ish', ',', 'enough', 'for', 'single', 'person', '.']
+ ------------------ 
+['But', 'prefer', 'delivery', 'options', ',', 'never', 'go', 'for', 'dine-in', 'the', 'outlet', '.']['But', 'prefer', 'delivery', 'options', ',', 'never', 'go', 'for', 'dine-in', 'the', 'outlet', '.']
+ ------------------ 
+['The', 'outlet', 'itself', 'is', 'very', 'poor', 'maintained', 'and', 'you', 'will', 'find', 'bird-shits', 'allover', '.']['The', 'outlet', 'itself', 'is', 'very', 'poor', 'maintained', 'and', 'you', 'will', 'find', 'bird-shits', 'allover', '.']
+ ------------------ 
+['We', 'chose', 'this', 'because', 'our', 'budget', 'was', 'low', 'and', 'no', 'other', 'kebab', 'outlets', 'were', 'available', 'for', 'this', 'range.I', 'have', 'been', 'frequenting', 'this', 'place', 'for', 'quite', 'a', 'few', 'years', '(', 'normally', 'on', 'the', 'way', 'to', 'the', 'airport', ',', 'or', 'back', ')', ',', 'and', 'have', 'found', 'the', 'Mutton', 'Biryani', 'to', 'be', 'one', 'of', 'the', 'best', 'I', 'have', 'had', 'in', 'Kolkata', '(', 'have', 'to', 'admit', 'that', 'I', 'have', 'not', 'had', 'it', 'for', '6', 'months', 'though', ')', '..', 'Today', 'I', 'decided', 'to', 'try', 'something', 'different..']['We', 'chose', 'this', 'because', 'our', 'budget', 'was', 'low', 'and', 'no', 'other', 'kebab', 'outlets', 'were', 'available', 'for', 'this', 'range.I', 'have', 'been', 'frequenting', 'this', 'place', 'for', 'quite', 'a', 'few', 'years', '(', 'normally', 'on', 'the', 'way', 'to', 'the', 'airport', ',', 'or', 'back', ')', ',', 'and', 'have', 'found', 'the', 'Mutton', 'Biryani', 'to', 'be', 'one', 'of', 'the', 'best', 'I', 'have', 'had', 'in', 'Kolkata', '(', 'have', 'to', 'admit', 'that', 'I', 'have', 'not', 'had', 'it', 'for', '6', 'months', 'though', ')', '..', 'Today', 'I', 'decided', 'to', 'try', 'something', 'different..']
+ ------------------ 
+['So', ',', 'had', 'the', 'Chicken', 'Chop', ',', 'with', 'Paratha', '.']['So', ',', 'had', 'the', 'Chicken', 'Chop', ',', 'with', 'Paratha', '.']
+ ------------------ 
+['Although', 'the', 'Chicken', 'tasted', 'quite', 'good', ',', 'I', 'would', 'reluctantly', 'have', 'to', 'admit', 'that', 'the', 'flavours', 'were', 'a', 'bit', 'strong', 'for', 'my', 'palate', ',', 'and', 'the', 'after', 'taste', 'lingered', 'for', 'longer', 'than', 'I', 'would', 'normally', 'like..']['Although', 'the', 'Chicken', 'tasted', 'quite', 'good', ',', 'I', 'would', 'reluctantly', 'have', 'to', 'admit', 'that', 'the', 'flavours', 'were', 'a', 'bit', 'strong', 'for', 'my', 'palate', ',', 'and', 'the', 'after', 'taste', 'lingered', 'for', 'longer', 'than', 'I', 'would', 'normally', 'like..']
+ ------------------ 
+['However', ',', 'I', 'am', 'sure', 'a', 'lot', 'of', 'people', 'would', 'probably', 'like', 'it..']['However', ',', 'I', 'am', 'sure', 'a', 'lot', 'of', 'people', 'would', 'probably', 'like', 'it..']
+ ------------------ 
+['If', 'this', 'was', 'a', 'Biryani', 'only', 'place', ',', 'I', 'would', 'have', 'given', 'them', 'a', 'rating', 'of', '4', 'at', 'the', 'least', '.']['If', 'this', 'was', 'a', 'Biryani', 'only', 'place', ',', 'I', 'would', 'have', 'given', 'them', 'a', 'rating', 'of', '4', 'at', 'the', 'least', '.']
+ ------------------ 
+['But', 'all', 'things', 'taken', 'into', 'consideration', ',', 'I', 'feel', 'a', '3.5', 'should', 'suffice..', 'Pocket', 'Pinch..', 'Rs', '.']['But', 'all', 'things', 'taken', 'into', 'consideration', ',', 'I', 'feel', 'a', '3.5', 'should', 'suffice..', 'Pocket', 'Pinch..', 'Rs', '.']
+ ------------------ 
+['110/-', 'for', 'the', 'Chicken', 'and', 'Paratha.The', 'name', 'of', 'the', 'restaurant', 'is', 'quite', 'deceiving', ',', 'for', 'not', 'only', 'will', 'you', 'get', 'biryani', 'here', 'but', 'also', 'Chinese', 'and', 'Tibetan', '.']['110/-', 'for', 'the', 'Chicken', 'and', 'Paratha.The', 'name', 'of', 'the', 'restaurant', 'is', 'quite', 'deceiving', ',', 'for', 'not', 'only', 'will', 'you', 'get', 'biryani', 'here', 'but', 'also', 'Chinese', 'and', 'Tibetan', '.']
+ ------------------ 
+['But', 'going', 'by', 'its', 'name', ',', 'I', 'ordered', 'a', 'plate', 'of', 'chicken', 'biryani', ',', 'which', 'was', 'just', 'average', 'in', 'consideration', 'that', 'its', 'just', 'a', 'roadside', 'food', 'stall', 'and', 'expecting', 'a', 'proper', 'biryani', 'here', 'would', 'be', 'silly', '!', 'A', 'kiosk', 'situated', 'in', 'New', 'Town', 'Bus', 'Stop', '.']['But', 'going', 'by', 'its', 'name', ',', 'I', 'ordered', 'a', 'plate', 'of', 'chicken', 'biryani', ',', 'which', 'was', 'just', 'average', 'in', 'consideration', 'that', 'its', 'just', 'a', 'roadside', 'food', 'stall', 'and', 'expecting', 'a', 'proper', 'biryani', 'here', 'would', 'be', 'silly', '!', 'A', 'kiosk', 'situated', 'in', 'New', 'Town', 'Bus', 'Stop', '.']
+ ------------------ 
+['Hygiene', 'is', 'maintained', '.']['Hygiene', 'is', 'maintained', '.']
+ ------------------ 
+['The', 'crowd', 'is', 'varied', '.']['The', 'crowd', 'is', 'varied', '.']
+ ------------------ 
+['The', 'price', 'is', 'okay', '.']['The', 'price', 'is', 'okay', '.']
+ ------------------ 
+['Ambiance', 'is', 'of', 'course', 'not', 'of', 'top', 'class', 'quality', '.']['Ambiance', 'is', 'of', 'course', 'not', 'of', 'top', 'class', 'quality', '.']
+ ------------------ 
+['You', 'can', 'take', 'delivery', 'or', 'takeaway.This', 'place', 'has', 'an', 'amazing', 'location', 'however', 'the', 'food', 'is', 'just', 'about', 'average', '...']['You', 'can', 'take', 'delivery', 'or', 'takeaway.This', 'place', 'has', 'an', 'amazing', 'location', 'however', 'the', 'food', 'is', 'just', 'about', 'average', '...']
+ ------------------ 
+['Some', 'items', 'are', 'below', 'average.I', 'have', 'tried', 'the', 'biryani', 'which', 'is', 'okayish', 'considering', 'that', 'it', 'was', 'made', 'in', 'a', 'roadside', 'food', 'joint.The', 'chicken', 'chow', 'was', 'not', 'very', 'good.They', 'do', 'not', 'take', 'great', 'advantage', 'of', 'their', 'locationLocation', ':', 'New', 'Town', 'Bus', 'Terminus.Food', ':', 'Since', 'it', 'is', 'a', 'roadside', 'food', 'stall', ',', 'ambiance', 'is', 'not', 'really', 'relevant', '.']['Some', 'items', 'are', 'below', 'average.I', 'have', 'tried', 'the', 'biryani', 'which', 'is', 'okayish', 'considering', 'that', 'it', 'was', 'made', 'in', 'a', 'roadside', 'food', 'joint.The', 'chicken', 'chow', 'was', 'not', 'very', 'good.They', 'do', 'not', 'take', 'great', 'advantage', 'of', 'their', 'locationLocation', ':', 'New', 'Town', 'Bus', 'Terminus.Food', ':', 'Since', 'it', 'is', 'a', 'roadside', 'food', 'stall', ',', 'ambiance', 'is', 'not', 'really', 'relevant', '.']
+ ------------------ 
+['Not', 'that', 'it', 'has', 'one', '!', '!']['Not', 'that', 'it', 'has', 'one', '!', '!']
+ ------------------ 
+['Ordered', 'the', 'Chicken', 'Biriyani', 'because', 'it', 'is', 'easily', 'the', 'most', 'ordered', 'dish', 'in', 'any', 'Mughlai', 'cuisine', 'outlet', 'and', 'most', 'often', 'most', 'of', 'them', 'do', 'get', 'the', 'taste', 'right', 'if', 'not', 'spectacular', '.']['Ordered', 'the', 'Chicken', 'Biriyani', 'because', 'it', 'is', 'easily', 'the', 'most', 'ordered', 'dish', 'in', 'any', 'Mughlai', 'cuisine', 'outlet', 'and', 'most', 'often', 'most', 'of', 'them', 'do', 'get', 'the', 'taste', 'right', 'if', 'not', 'spectacular', '.']
+ ------------------ 
+['Mostly', 'a', 'take', 'home', 'joint', 'or', 'a', 'sit', 'in', 'front', 'of', 'the', 'stall', 'while', 'Stray', 'dogs', 'disturb', 'me', 'joint..', '.']['Mostly', 'a', 'take', 'home', 'joint', 'or', 'a', 'sit', 'in', 'front', 'of', 'the', 'stall', 'while', 'Stray', 'dogs', 'disturb', 'me', 'joint..', '.']
+ ------------------ 
+['Hence', 'brought', 'it', 'homeQuantity', 'was', 'ample', 'but', 'the', 'taste', '...', '.', 'One', 'word', ':', 'Yuck', '!', '!', '!', '!']['Hence', 'brought', 'it', 'homeQuantity', 'was', 'ample', 'but', 'the', 'taste', '...', '.', 'One', 'word', ':', 'Yuck', '!', '!', '!', '!']
+ ------------------ 
+['Do', 'not', 'get', 'me', 'wrong', 'I', "'m", 'not', 'comparing', 'it', 'with', 'the', 'royalty', 'of', 'Biriyani', 'outlets', 'like', 'Shiraz', ',', 'Arsalan', ',', 'Zeeshan', 'etc', '!', '!']['Do', 'not', 'get', 'me', 'wrong', 'I', "'m", 'not', 'comparing', 'it', 'with', 'the', 'royalty', 'of', 'Biriyani', 'outlets', 'like', 'Shiraz', ',', 'Arsalan', ',', 'Zeeshan', 'etc', '!', '!']
+ ------------------ 
+['Felt', 'like', 'they', 'only', 'knew', 'how', 'to', 'add', 'keora', 'water', 'to', 'the', 'dish', 'for', 'that', 'classic', 'scent', '...', 'Color', ':', 'Bland', ',', 'Chicken', ':', 'Dry', '.']['Felt', 'like', 'they', 'only', 'knew', 'how', 'to', 'add', 'keora', 'water', 'to', 'the', 'dish', 'for', 'that', 'classic', 'scent', '...', 'Color', ':', 'Bland', ',', 'Chicken', ':', 'Dry', '.']
+ ------------------ 
+['The', 'only', 'thing', 'worth', 'eating', 'was', 'the', 'harmless', 'egg', 'sitting', 'in', 'the', 'corner.Conclusion', ':', 'If', 'you', 'are', 'unable', 'to', 'rustle', 'up', 'a', 'decent', 'biriyani', ',', 'you', 'probably', 'will', 'not', 'be', 'able', 'to', 'stay', 'in', 'business', 'for', 'long', '!', '!']['The', 'only', 'thing', 'worth', 'eating', 'was', 'the', 'harmless', 'egg', 'sitting', 'in', 'the', 'corner.Conclusion', ':', 'If', 'you', 'are', 'unable', 'to', 'rustle', 'up', 'a', 'decent', 'biriyani', ',', 'you', 'probably', 'will', 'not', 'be', 'able', 'to', 'stay', 'in', 'business', 'for', 'long', '!', '!']
+ ------------------ 
+['Never', 'trying', 'this', 'place', 'out', 'again', 'unless', 'a', 'famine', 'hits..a', 'place', 'with', 'an', 'excellent', 'location', 'but', 'average', 'food', '...', '.order', 'parathas', 'and', 'chicken', 'once', 'from', 'here', 'and', 'it', 'was', 'ok', 'tasting', ',', 'nothing', 'great', 'or', 'below', 'average', '...', '.may', 'be', 'the', 'kind', 'of', 'quick', 'service', 'they', 'provide', ',', 'thts', 'the', 'best', 'that', 'can', 'be', 'managed', '...', '.i', 'only', 'envy', 'the', 'location', 'and', 'what', 'magic', 'they', 'can', 'create', 'with', 'a', 'better', 'quality', 'of', 'food', '...', '.Average', 'kind', 'of', 'taste', '.']['Never', 'trying', 'this', 'place', 'out', 'again', 'unless', 'a', 'famine', 'hits..a', 'place', 'with', 'an', 'excellent', 'location', 'but', 'average', 'food', '...', '.order', 'parathas', 'and', 'chicken', 'once', 'from', 'here', 'and', 'it', 'was', 'ok', 'tasting', ',', 'nothing', 'great', 'or', 'below', 'average', '...', '.may', 'be', 'the', 'kind', 'of', 'quick', 'service', 'they', 'provide', ',', 'thts', 'the', 'best', 'that', 'can', 'be', 'managed', '...', '.i', 'only', 'envy', 'the', 'location', 'and', 'what', 'magic', 'they', 'can', 'create', 'with', 'a', 'better', 'quality', 'of', 'food', '...', '.Average', 'kind', 'of', 'taste', '.']
+ ------------------ 
+['The', 'place', 'is', 'always', 'overcrowded', 'with', 'lots', 'of', 'stray', 'dogs', 'and', 'cats', 'fighting', 'for', 'a', 'bite', '.']['The', 'place', 'is', 'always', 'overcrowded', 'with', 'lots', 'of', 'stray', 'dogs', 'and', 'cats', 'fighting', 'for', 'a', 'bite', '.']
+ ------------------ 
+['Ambience', 'is', 'disastrous', '.']['Ambience', 'is', 'disastrous', '.']
+ ------------------ 
+['Perfect', 'pricing.Biryani', 'to', 'me', 'can', 'either', 'be', 'good', 'or', 'very', 'good.In', 'my', 'books', 'there', 'is', 'no', 'rating', 'below', 'that', 'when', 'it', 'comes', 'to', 'my', 'favourite', 'comfort', 'food.Being', 'a', 'stone', 'is', 'throw', 'away', 'from', 'my', 'house', ',', 'I', 'come', 'to', 'this', 'place', 'often.It', 'is', 'generally', 'thronged', 'by', 'young', 'software', 'professionals', 'who', 'work', 'in', 'the', 'IT', 'companies', 'at', 'sector', 'V', 'and', 'live', 'nearby.Hands', 'down', 'this', 'does', 'not', 'serve', 'the', 'best', 'Calcutta', 'Biryani', 'you', 'would', 'taste', 'but', 'no', 'one', 'expects', 'that', 'from', 'it', 'either.So', 'good', 'old', 'mutton', 'biryani', 'with', 'aromatic', 'rice', ',', 'a', 'soft', 'piece', 'of', 'mutton', 'and', 'a', 'perfectly', 'fluffy', 'potato', 'does', 'wonders', 'to', 'the', 'hunger', 'pangs', 'when', 'paired', 'with', 'the', 'chicken', 'kasha', 'from', 'here.Give', 'the', 'chicken', 'chaap', 'a', 'miss', 'because', 'the', 'pieces', 'are', 'humongous', 'and', 'often', 'undercooked.The', 'prices', 'are', 'a', 'little', 'high', 'considering', 'the', 'standards', 'but', 'overall', 'a', 'hearty', 'meal', 'would', 'not', 'burn', 'a', 'hole', 'in', 'your', 'pocket', 'yet', 'satisfy', 'your', 'biryani', 'cravings.Trust', 'me', 'they', 'sometimes', 'get', 'worse', 'than', 'the', 'ones', 'you', 'have', 'for', 'chocolate.Our', 'Apartment', 'Is', 'In', 'The', 'Proximity', '.']['Perfect', 'pricing.Biryani', 'to', 'me', 'can', 'either', 'be', 'good', 'or', 'very', 'good.In', 'my', 'books', 'there', 'is', 'no', 'rating', 'below', 'that', 'when', 'it', 'comes', 'to', 'my', 'favourite', 'comfort', 'food.Being', 'a', 'stone', 'is', 'throw', 'away', 'from', 'my', 'house', ',', 'I', 'come', 'to', 'this', 'place', 'often.It', 'is', 'generally', 'thronged', 'by', 'young', 'software', 'professionals', 'who', 'work', 'in', 'the', 'IT', 'companies', 'at', 'sector', 'V', 'and', 'live', 'nearby.Hands', 'down', 'this', 'does', 'not', 'serve', 'the', 'best', 'Calcutta', 'Biryani', 'you', 'would', 'taste', 'but', 'no', 'one', 'expects', 'that', 'from', 'it', 'either.So', 'good', 'old', 'mutton', 'biryani', 'with', 'aromatic', 'rice', ',', 'a', 'soft', 'piece', 'of', 'mutton', 'and', 'a', 'perfectly', 'fluffy', 'potato', 'does', 'wonders', 'to', 'the', 'hunger', 'pangs', 'when', 'paired', 'with', 'the', 'chicken', 'kasha', 'from', 'here.Give', 'the', 'chicken', 'chaap', 'a', 'miss', 'because', 'the', 'pieces', 'are', 'humongous', 'and', 'often', 'undercooked.The', 'prices', 'are', 'a', 'little', 'high', 'considering', 'the', 'standards', 'but', 'overall', 'a', 'hearty', 'meal', 'would', 'not', 'burn', 'a', 'hole', 'in', 'your', 'pocket', 'yet', 'satisfy', 'your', 'biryani', 'cravings.Trust', 'me', 'they', 'sometimes', 'get', 'worse', 'than', 'the', 'ones', 'you', 'have', 'for', 'chocolate.Our', 'Apartment', 'Is', 'In', 'The', 'Proximity', '.']
+ ------------------ 
+['Now', 'Being', 'Arsalan', '&', 'Aminia', 'Both', 'Are', 'Not', 'Nearby', '[', 'At', 'Chinar', 'Park', 'To', 'Be', 'Precised', ']', ',', 'We', 'Have', 'To', 'Depend', 'On', 'This', 'Food', 'Joint', '.']['Now', 'Being', 'Arsalan', '&', 'Aminia', 'Both', 'Are', 'Not', 'Nearby', '[', 'At', 'Chinar', 'Park', 'To', 'Be', 'Precised', ']', ',', 'We', 'Have', 'To', 'Depend', 'On', 'This', 'Food', 'Joint', '.']
+ ------------------ 
+['Biryani', 'Is', '``', 'GOOD', "''", '[', 'Not', 'Incredible', ']', '...', 'So', 'Are', 'The', 'Kebabs', '.']['Biryani', 'Is', '``', 'GOOD', "''", '[', 'Not', 'Incredible', ']', '...', 'So', 'Are', 'The', 'Kebabs', '.']
+ ------------------ 
+['Never', 'Tried', 'The', '``', 'CHICKEN', '-CHAAP', "''", '.']['Never', 'Tried', 'The', '``', 'CHICKEN', '-CHAAP', "''", '.']
+ ------------------ 
+['A', 'So', 'So', 'Place', ',', 'My', 'Suggestion', 'Would', 'Be', 'To', 'Go', 'For', '``', 'TAKE', 'AWAY', "''", '...', 'Option', 'Of', '``', 'Eat-In', "''", 'Ai', 'not', 'A', 'Healthy', 'AlternativeThis', 'is', 'located', 'just', 'beside', 'Newtown', 'bus', 'depot', '.']['A', 'So', 'So', 'Place', ',', 'My', 'Suggestion', 'Would', 'Be', 'To', 'Go', 'For', '``', 'TAKE', 'AWAY', "''", '...', 'Option', 'Of', '``', 'Eat-In', "''", 'Ai', 'not', 'A', 'Healthy', 'AlternativeThis', 'is', 'located', 'just', 'beside', 'Newtown', 'bus', 'depot', '.']
+ ------------------ 
+['The', 'taste', 'of', 'the', 'biriyani', 'is', 'not', 'something', 'incredible', 'but', 'at', 'times', 'it', 'works', 'perfectly', 'to', 'fulfill', 'my', 'hunger', 'pangs', '.']['The', 'taste', 'of', 'the', 'biriyani', 'is', 'not', 'something', 'incredible', 'but', 'at', 'times', 'it', 'works', 'perfectly', 'to', 'fulfill', 'my', 'hunger', 'pangs', '.']
+ ------------------ 
+['However', 'the', 'surrounding', 'is', 'too', 'dirty', 'which', 'is', 'why', 'I', 'consider', 'this', 'place', 'to', 'be', 'the', 'last', 'option', 'in', 'Newtown', 'where', 'I', 'should', 'go', 'for', 'buying', 'some', 'food', '.']['However', 'the', 'surrounding', 'is', 'too', 'dirty', 'which', 'is', 'why', 'I', 'consider', 'this', 'place', 'to', 'be', 'the', 'last', 'option', 'in', 'Newtown', 'where', 'I', 'should', 'go', 'for', 'buying', 'some', 'food', '.']
+ ------------------ 
+['Also', 'I', "'m", 'not', 'very', 'satisfied', 'with', 'the', 'hygiene', 'of', 'the', 'food', '.']['Also', 'I', "'m", 'not', 'very', 'satisfied', 'with', 'the', 'hygiene', 'of', 'the', 'food', '.']
+ ------------------ 
+['But', 'the', 'place', 'is', 'a', 'relief', 'for', 'those', 'hungry', 'eyes', 'returning', 'from', 'office', '&', 'searching', 'for', 'some', 'spicy', 'delicacies', 'before', 'boarding', 'the', 'bus', '.']['But', 'the', 'place', 'is', 'a', 'relief', 'for', 'those', 'hungry', 'eyes', 'returning', 'from', 'office', '&', 'searching', 'for', 'some', 'spicy', 'delicacies', 'before', 'boarding', 'the', 'bus', '.']
+ ------------------ 
+['Some', 'minor', 'improvements', 'will', 'make', 'this', 'place', 'the', 'greatest', 'food', 'hub', 'of', 'Newtown', '!', 'Kolkata', 'Biriyanis', 'can', 'be', 'of', 'two', 'types', '-', 'good', 'and', 'very', 'good', '!']['Some', 'minor', 'improvements', 'will', 'make', 'this', 'place', 'the', 'greatest', 'food', 'hub', 'of', 'Newtown', '!', 'Kolkata', 'Biriyanis', 'can', 'be', 'of', 'two', 'types', '-', 'good', 'and', 'very', 'good', '!']
+ ------------------ 
+['There', 'is', 'rarely', 'a', 'place', 'in', 'the', 'city', 'that', 'serves', 'biriyani', 'which', 'does', 'not', 'taste', 'good', '.']['There', 'is', 'rarely', 'a', 'place', 'in', 'the', 'city', 'that', 'serves', 'biriyani', 'which', 'does', 'not', 'taste', 'good', '.']
+ ------------------ 
+['Even', 'the', 'road', 'side', 'stalls', 'give', 'you', 'some', 'lip', 'smacking', 'stuffs', 'and', 'surely', 'there', 'are', 'bigger', 'well', 'established', 'biriyani', 'houses', 'in', 'the', 'city', 'that', 'simply', 'blows', 'you', 'away', '.']['Even', 'the', 'road', 'side', 'stalls', 'give', 'you', 'some', 'lip', 'smacking', 'stuffs', 'and', 'surely', 'there', 'are', 'bigger', 'well', 'established', 'biriyani', 'houses', 'in', 'the', 'city', 'that', 'simply', 'blows', 'you', 'away', '.']
+ ------------------ 
+['Being', 'an', 'ardent', 'biriyani', 'lover', ',', 'I', 'keep', 'on', 'trying', 'several', 'outlets', 'to', 'get', 'the', 'taste', 'of', 'their', 'food', 'and', 'feel', 'of', 'their', 'service', '.']['Being', 'an', 'ardent', 'biriyani', 'lover', ',', 'I', 'keep', 'on', 'trying', 'several', 'outlets', 'to', 'get', 'the', 'taste', 'of', 'their', 'food', 'and', 'feel', 'of', 'their', 'service', '.']
+ ------------------ 
+['Biriyani', 'Bar', 'is', 'one', 'such', 'small', 'outlet', 'serving', 'good', 'biriyani', ',', 'sides', 'and', 'rolls', 'in', 'a', 'not', 'so', 'hygienic', 'environment.Location', '--', '--', 'Located', 'right', 'at', 'the', 'Newtown', 'bus', 'terminus', 'complex', 'beside', 'Mio', 'Amore', ',', 'Biriyani', 'Bar', 'is', 'one', 'of', 'the', 'most', 'prominent', 'shops', 'there', 'in', 'that', 'small', 'open', 'food', 'court', '.']['Biriyani', 'Bar', 'is', 'one', 'such', 'small', 'outlet', 'serving', 'good', 'biriyani', ',', 'sides', 'and', 'rolls', 'in', 'a', 'not', 'so', 'hygienic', 'environment.Location', '--', '--', 'Located', 'right', 'at', 'the', 'Newtown', 'bus', 'terminus', 'complex', 'beside', 'Mio', 'Amore', ',', 'Biriyani', 'Bar', 'is', 'one', 'of', 'the', 'most', 'prominent', 'shops', 'there', 'in', 'that', 'small', 'open', 'food', 'court', '.']
+ ------------------ 
+['Newtown', 'bus', 'depot', 'is', 'just', 'opposite', 'iconic', 'Eastern', 'High', 'flats', 'at', 'the', 'Newtown', 'action', 'area-1', 'crossing.Ambiance', '--', '--', 'Nothing', 'much', 'to', 'write', 'about', ',', 'it', 'is', 'a', 'street', 'side', 'kinda', 'stall', 'with', 'few', 'stools', 'placed', 'outside', 'in', 'the', 'open', '.']['Newtown', 'bus', 'depot', 'is', 'just', 'opposite', 'iconic', 'Eastern', 'High', 'flats', 'at', 'the', 'Newtown', 'action', 'area-1', 'crossing.Ambiance', '--', '--', 'Nothing', 'much', 'to', 'write', 'about', ',', 'it', 'is', 'a', 'street', 'side', 'kinda', 'stall', 'with', 'few', 'stools', 'placed', 'outside', 'in', 'the', 'open', '.']
+ ------------------ 
+['The', 'place', 'is', 'not', 'so', 'well', 'maintained', '.']['The', 'place', 'is', 'not', 'so', 'well', 'maintained', '.']
+ ------------------ 
+['Five', 'years', 'back', 'it', 'was', 'still', 'a', 'neat', 'nice', 'looking', 'outlet', 'but', 'now', 'even', 'the', 'floors', 'are', 'covered', 'with', 'soot', 'and', 'you', 'will', 'feel', 'sticky', 'while', 'walking', 'in', 'that', 'area', '!']['Five', 'years', 'back', 'it', 'was', 'still', 'a', 'neat', 'nice', 'looking', 'outlet', 'but', 'now', 'even', 'the', 'floors', 'are', 'covered', 'with', 'soot', 'and', 'you', 'will', 'feel', 'sticky', 'while', 'walking', 'in', 'that', 'area', '!']
+ ------------------ 
+['It', 'is', 'best', 'to', 'opt', 'for', 'take', 'away', 'or', 'home', 'delivery.Food', '--', '--', 'I', 'have', 'been', 'having', 'their', 'rolls', 'and', 'Biriyanis', 'for', 'last', '5', 'years', 'now', ',', 'not', 'very', 'regularly', 'though', '.']['It', 'is', 'best', 'to', 'opt', 'for', 'take', 'away', 'or', 'home', 'delivery.Food', '--', '--', 'I', 'have', 'been', 'having', 'their', 'rolls', 'and', 'Biriyanis', 'for', 'last', '5', 'years', 'now', ',', 'not', 'very', 'regularly', 'though', '.']
+ ------------------ 
+['The', 'quality', 'of', 'Biriyani', 'is', 'still', 'the', 'same', 'but', 'their', 'rolls', 'used', 'to', 'be', 'awesome', 'with', 'generous', 'stuffings', 'few', 'years', 'back', 'which', 'has', 'changed', 'a', 'bit', '.']['The', 'quality', 'of', 'Biriyani', 'is', 'still', 'the', 'same', 'but', 'their', 'rolls', 'used', 'to', 'be', 'awesome', 'with', 'generous', 'stuffings', 'few', 'years', 'back', 'which', 'has', 'changed', 'a', 'bit', '.']
+ ------------------ 
+['But', 'you', 'can', 'still', 'try', 'out', 'their', 'egg', 'chicken', 'rolls', 'for', 'evening', 'snacks', ',', 'its', 'still', 'quite', 'tasty', 'and', 'filling', '.']['But', 'you', 'can', 'still', 'try', 'out', 'their', 'egg', 'chicken', 'rolls', 'for', 'evening', 'snacks', ',', 'its', 'still', 'quite', 'tasty', 'and', 'filling', '.']
+ ------------------ 
+['The', 'rush', 'to', 'grab', 'a', 'roll', 'is', 'very', 'noticeable', 'during', 'the', 'pick', 'evening', 'hours', '.']['The', 'rush', 'to', 'grab', 'a', 'roll', 'is', 'very', 'noticeable', 'during', 'the', 'pick', 'evening', 'hours', '.']
+ ------------------ 
+['The', 'biriyani', 'is', 'generally', 'served', 'from', 'a', 'handi', 'which', 'might', 'not', 'be', 'very', 'warm', ',', 'so', 'its', 'best', 'to', 'take', 'it', 'away', '.']['The', 'biriyani', 'is', 'generally', 'served', 'from', 'a', 'handi', 'which', 'might', 'not', 'be', 'very', 'warm', ',', 'so', 'its', 'best', 'to', 'take', 'it', 'away', '.']
+ ------------------ 
+['The', 'chicken', 'biriyani', 'comes', 'at', 'reasonable', 'INR', '120', 'with', 'one', 'piece', 'of', 'sweet', 'potato', 'and', 'one', 'piece', 'of', 'chicken', ',', 'but', 'no', 'boiled', 'egg', 'is', 'provided', '.']['The', 'chicken', 'biriyani', 'comes', 'at', 'reasonable', 'INR', '120', 'with', 'one', 'piece', 'of', 'sweet', 'potato', 'and', 'one', 'piece', 'of', 'chicken', ',', 'but', 'no', 'boiled', 'egg', 'is', 'provided', '.']
+ ------------------ 
+['The', 'quantity', 'is', 'generous', 'and', 'the', 'quality', 'is', 'okayish', ',', 'but', 'its', 'not', 'very', 'oily', 'which', 'is', 'a', 'good', 'part.Service', '--', '--', 'Very', 'mechanical', 'to', 'say', 'the', 'least', ',', 'not', 'very', 'warm', '.']['The', 'quantity', 'is', 'generous', 'and', 'the', 'quality', 'is', 'okayish', ',', 'but', 'its', 'not', 'very', 'oily', 'which', 'is', 'a', 'good', 'part.Service', '--', '--', 'Very', 'mechanical', 'to', 'say', 'the', 'least', ',', 'not', 'very', 'warm', '.']
+ ------------------ 
+['Though', 'you', 'will', 'face', 'no', 'issues', 'with', 'the', 'service', 'with', 'very', 'less', 'waiting', 'time', '.']['Though', 'you', 'will', 'face', 'no', 'issues', 'with', 'the', 'service', 'with', 'very', 'less', 'waiting', 'time', '.']
+ ------------------ 
+['You', 'need', 'to', 'place', 'the', 'order', 'at', 'the', 'cash', 'counter', 'and', 'they', 'provide', 'you', 'a', 'slip', 'which', 'needs', 'to', 'be', 'exchanged', 'for', 'food', 'at', 'the', 'other', 'end', 'of', 'the', 'shop', 'where', 'the', 'Biriyani', 'handi', 'is', 'placed', '.']['You', 'need', 'to', 'place', 'the', 'order', 'at', 'the', 'cash', 'counter', 'and', 'they', 'provide', 'you', 'a', 'slip', 'which', 'needs', 'to', 'be', 'exchanged', 'for', 'food', 'at', 'the', 'other', 'end', 'of', 'the', 'shop', 'where', 'the', 'Biriyani', 'handi', 'is', 'placed', '.']
+ ------------------ 
+['The', 'place', 'charges', 'no', 'extra', 'tax', 'and', 'prices', 'are', 'pretty', 'reasonable', 'considering', 'the', 'quality.Overall', '--', '--', 'You', 'will', 'not', 'find', 'any', 'street', 'side', 'biriyani', 'stall', 'in', 'Newtown', 'action', 'area-1', ',', 'so', 'this', 'stall', 'is', 'a', 'life', 'savior', 'for', 'many', 'who', 'are', 'looking', 'for', 'a', 'quick', 'roadside', 'meal', 'at', 'minimum', 'cost', '.']['The', 'place', 'charges', 'no', 'extra', 'tax', 'and', 'prices', 'are', 'pretty', 'reasonable', 'considering', 'the', 'quality.Overall', '--', '--', 'You', 'will', 'not', 'find', 'any', 'street', 'side', 'biriyani', 'stall', 'in', 'Newtown', 'action', 'area-1', ',', 'so', 'this', 'stall', 'is', 'a', 'life', 'savior', 'for', 'many', 'who', 'are', 'looking', 'for', 'a', 'quick', 'roadside', 'meal', 'at', 'minimum', 'cost', '.']
+ ------------------ 
+['Also', 'its', 'location', 'is', 'very', 'prominent', 'and', 'easy', 'to', 'reach', '.']['Also', 'its', 'location', 'is', 'very', 'prominent', 'and', 'easy', 'to', 'reach', '.']
+ ------------------ 
+['Only', 'I', 'would', 'suggest', 'to', 'keep', 'this', 'place', 'a', 'bit', 'cleaner', ',', 'like', 'it', 'was', 'few', 'years', 'back', '.']['Only', 'I', 'would', 'suggest', 'to', 'keep', 'this', 'place', 'a', 'bit', 'cleaner', ',', 'like', 'it', 'was', 'few', 'years', 'back', '.']
+ ------------------ 
+['The', 'quality', 'and', 'taste', 'of', 'food', 'is', 'as', 'expected', 'from', 'one', 'such', 'stall', ',', 'and', 'if', 'improved', 'can', 'be', 'an', 'additional', 'bonus.Cheers', '!', 'Been', 'there', 'few', 'days', 'back', '.']['The', 'quality', 'and', 'taste', 'of', 'food', 'is', 'as', 'expected', 'from', 'one', 'such', 'stall', ',', 'and', 'if', 'improved', 'can', 'be', 'an', 'additional', 'bonus.Cheers', '!', 'Been', 'there', 'few', 'days', 'back', '.']
+ ------------------ 
+['Regarding', 'quality', 'of', 'food', ',', 'i', 'would', 'say', 'it', 'is', 'just', 'average..', 'sitting', 'arrangement', 'is', 'not', 'good', 'at', 'all', '.']['Regarding', 'quality', 'of', 'food', ',', 'i', 'would', 'say', 'it', 'is', 'just', 'average..', 'sitting', 'arrangement', 'is', 'bad', 'at', 'all', '.']
+ ------------------ 
+['However', 'you', 'can', 'opt', 'for', 'it', 'once', ',', 'if', 'you', 'are', 'looking', 'for', 'take', 'away', 'or', 'home', 'delivery', 'of', 'some', 'average', 'quality', 'Biryani', 'in', 'low', 'price.Food', 'here', 'is', 'not', 'at', 'all', 'upto', 'the', 'mark', '.']['However', 'you', 'can', 'opt', 'for', 'it', 'once', ',', 'if', 'you', 'are', 'looking', 'for', 'take', 'away', 'or', 'home', 'delivery', 'of', 'some', 'average', 'quality', 'Biryani', 'in', 'low', 'price.Food', 'here', 'is', 'not', 'at', 'all', 'upto', 'the', 'mark', '.']
+ ------------------ 
+['Very', 'oily', 'and', 'totally', 'unhygienic', '.']['Very', 'oily', 'and', 'totally', 'unhygienic', '.']
+ ------------------ 
+['Service', 'is', 'prompt', '.']['Service', 'is', 'prompt', '.']
+ ------------------ 
+['Price', 'not', 'much', 'though', 'but', 'quality', 'is', 'really', 'bad', 'and', 'seating', 'arrangement', 'is', 'very', 'poor.Our', 'Apartment', 'Is', 'In', 'The', 'Proximity', '.']['Price', 'little', 'though', 'but', 'quality', 'is', 'really', 'bad', 'and', 'seating', 'arrangement', 'is', 'very', 'poor.Our', 'Apartment', 'Is', 'In', 'The', 'Proximity', '.']
+ ------------------ 
+['Now', 'Being', 'Arsalan', '&', 'Aminia', 'Both', 'Are', 'Not', 'Nearby', '[', 'At', 'Chinar', 'Park', 'To', 'Be', 'Precised', ']', ',', 'We', 'Have', 'To', 'Depend', 'On', 'This', 'Food', 'Joint', '.']['Now', 'Being', 'Arsalan', '&', 'Aminia', 'Both', 'Are', 'Not', 'Nearby', '[', 'At', 'Chinar', 'Park', 'To', 'Be', 'Precised', ']', ',', 'We', 'Have', 'To', 'Depend', 'On', 'This', 'Food', 'Joint', '.']
+ ------------------ 
+['Biryani', 'Is', '``', 'GOOD', "''", '[', 'Not', 'Incredible', ']', '...', 'So', 'Are', 'The', 'Kebabs', '.']['Biryani', 'Is', '``', 'GOOD', "''", '[', 'Not', 'Incredible', ']', '...', 'So', 'Are', 'The', 'Kebabs', '.']
+ ------------------ 
+['Never', 'Tried', 'The', '``', 'CHICKEN', '-CHAAP', "''", '.']['Never', 'Tried', 'The', '``', 'CHICKEN', '-CHAAP', "''", '.']
+ ------------------ 
+['A', 'So', 'So', 'Place', ',', 'My', 'Suggestion', 'Would', 'Be', 'To', 'Go', 'For', '``', 'TAKE', 'AWAY', "''", '...', 'Option', 'Of', '``', 'Eat-In', "''", 'Ai', 'not', 'A', 'Healthy', 'AlternativeThis', 'is', 'located', 'just', 'beside', 'Newtown', 'bus', 'depot', '.']['A', 'So', 'So', 'Place', ',', 'My', 'Suggestion', 'Would', 'Be', 'To', 'Go', 'For', '``', 'TAKE', 'AWAY', "''", '...', 'Option', 'Of', '``', 'Eat-In', "''", 'Ai', 'not', 'A', 'Healthy', 'AlternativeThis', 'is', 'located', 'just', 'beside', 'Newtown', 'bus', 'depot', '.']
+ ------------------ 
+['The', 'taste', 'of', 'the', 'biriyani', 'is', 'not', 'something', 'incredible', 'but', 'at', 'times', 'it', 'works', 'perfectly', 'to', 'fulfill', 'my', 'hunger', 'pangs', '.']['The', 'taste', 'of', 'the', 'biriyani', 'is', 'not', 'something', 'incredible', 'but', 'at', 'times', 'it', 'works', 'perfectly', 'to', 'fulfill', 'my', 'hunger', 'pangs', '.']
+ ------------------ 
+['However', 'the', 'surrounding', 'is', 'too', 'dirty', 'which', 'is', 'why', 'I', 'consider', 'this', 'place', 'to', 'be', 'the', 'last', 'option', 'in', 'Newtown', 'where', 'I', 'should', 'go', 'for', 'buying', 'some', 'food', '.']['However', 'the', 'surrounding', 'is', 'too', 'dirty', 'which', 'is', 'why', 'I', 'consider', 'this', 'place', 'to', 'be', 'the', 'last', 'option', 'in', 'Newtown', 'where', 'I', 'should', 'go', 'for', 'buying', 'some', 'food', '.']
+ ------------------ 
+['Also', 'I', "'m", 'not', 'very', 'satisfied', 'with', 'the', 'hygiene', 'of', 'the', 'food', '.']['Also', 'I', "'m", 'not', 'very', 'satisfied', 'with', 'the', 'hygiene', 'of', 'the', 'food', '.']
+ ------------------ 
+['But', 'the', 'place', 'is', 'a', 'relief', 'for', 'those', 'hungry', 'eyes', 'returning', 'from', 'office', '&', 'searching', 'for', 'some', 'spicy', 'delicacies', 'before', 'boarding', 'the', 'bus', '.']['But', 'the', 'place', 'is', 'a', 'relief', 'for', 'those', 'hungry', 'eyes', 'returning', 'from', 'office', '&', 'searching', 'for', 'some', 'spicy', 'delicacies', 'before', 'boarding', 'the', 'bus', '.']
+ ------------------ 
+['Some', 'minor', 'improvements', 'will', 'make', 'this', 'place', 'the', 'greatest', 'food', 'hub', 'of', 'Newtown', '!', 'Kolkata', 'Biriyanis', 'can', 'be', 'of', 'two', 'types', '-', 'good', 'and', 'very', 'good', '!']['Some', 'minor', 'improvements', 'will', 'make', 'this', 'place', 'the', 'greatest', 'food', 'hub', 'of', 'Newtown', '!', 'Kolkata', 'Biriyanis', 'can', 'be', 'of', 'two', 'types', '-', 'good', 'and', 'very', 'good', '!']
+ ------------------ 
+['There', 'is', 'rarely', 'a', 'place', 'in', 'the', 'city', 'that', 'serves', 'biriyani', 'which', 'does', 'not', 'taste', 'good', '.']['There', 'is', 'rarely', 'a', 'place', 'in', 'the', 'city', 'that', 'serves', 'biriyani', 'which', 'does', 'not', 'taste', 'good', '.']
+ ------------------ 
+['Even', 'the', 'road', 'side', 'stalls', 'give', 'you', 'some', 'lip', 'smacking', 'stuffs', 'and', 'surely', 'there', 'are', 'bigger', 'well', 'established', 'biriyani', 'houses', 'in', 'the', 'city', 'that', 'simply', 'blows', 'you', 'away', '.']['Even', 'the', 'road', 'side', 'stalls', 'give', 'you', 'some', 'lip', 'smacking', 'stuffs', 'and', 'surely', 'there', 'are', 'bigger', 'well', 'established', 'biriyani', 'houses', 'in', 'the', 'city', 'that', 'simply', 'blows', 'you', 'away', '.']
+ ------------------ 
+['Being', 'an', 'ardent', 'biriyani', 'lover', ',', 'I', 'keep', 'on', 'trying', 'several', 'outlets', 'to', 'get', 'the', 'taste', 'of', 'their', 'food', 'and', 'feel', 'of', 'their', 'service', '.']['Being', 'an', 'ardent', 'biriyani', 'lover', ',', 'I', 'keep', 'on', 'trying', 'several', 'outlets', 'to', 'get', 'the', 'taste', 'of', 'their', 'food', 'and', 'feel', 'of', 'their', 'service', '.']
+ ------------------ 
+['Biriyani', 'Bar', 'is', 'one', 'such', 'small', 'outlet', 'serving', 'good', 'biriyani', ',', 'sides', 'and', 'rolls', 'in', 'a', 'not', 'so', 'hygienic', 'environment.Location', '--', '--', 'Located', 'right', 'at', 'the', 'Newtown', 'bus', 'terminus', 'complex', 'beside', 'Mio', 'Amore', ',', 'Biriyani', 'Bar', 'is', 'one', 'of', 'the', 'most', 'prominent', 'shops', 'there', 'in', 'that', 'small', 'open', 'food', 'court', '.']['Biriyani', 'Bar', 'is', 'one', 'such', 'small', 'outlet', 'serving', 'good', 'biriyani', ',', 'sides', 'and', 'rolls', 'in', 'a', 'not', 'so', 'hygienic', 'environment.Location', '--', '--', 'Located', 'right', 'at', 'the', 'Newtown', 'bus', 'terminus', 'complex', 'beside', 'Mio', 'Amore', ',', 'Biriyani', 'Bar', 'is', 'one', 'of', 'the', 'most', 'prominent', 'shops', 'there', 'in', 'that', 'small', 'open', 'food', 'court', '.']
+ ------------------ 
+['Newtown', 'bus', 'depot', 'is', 'just', 'opposite', 'iconic', 'Eastern', 'High', 'flats', 'at', 'the', 'Newtown', 'action', 'area-1', 'crossing.Ambiance', '--', '--', 'Nothing', 'much', 'to', 'write', 'about', ',', 'it', 'is', 'a', 'street', 'side', 'kinda', 'stall', 'with', 'few', 'stools', 'placed', 'outside', 'in', 'the', 'open', '.']['Newtown', 'bus', 'depot', 'is', 'just', 'opposite', 'iconic', 'Eastern', 'High', 'flats', 'at', 'the', 'Newtown', 'action', 'area-1', 'crossing.Ambiance', '--', '--', 'Nothing', 'much', 'to', 'write', 'about', ',', 'it', 'is', 'a', 'street', 'side', 'kinda', 'stall', 'with', 'few', 'stools', 'placed', 'outside', 'in', 'the', 'open', '.']
+ ------------------ 
+['The', 'place', 'is', 'not', 'so', 'well', 'maintained', '.']['The', 'place', 'is', 'not', 'so', 'well', 'maintained', '.']
+ ------------------ 
+['Five', 'years', 'back', 'it', 'was', 'still', 'a', 'neat', 'nice', 'looking', 'outlet', 'but', 'now', 'even', 'the', 'floors', 'are', 'covered', 'with', 'soot', 'and', 'you', 'will', 'feel', 'sticky', 'while', 'walking', 'in', 'that', 'area', '!']['Five', 'years', 'back', 'it', 'was', 'still', 'a', 'neat', 'nice', 'looking', 'outlet', 'but', 'now', 'even', 'the', 'floors', 'are', 'covered', 'with', 'soot', 'and', 'you', 'will', 'feel', 'sticky', 'while', 'walking', 'in', 'that', 'area', '!']
+ ------------------ 
+['It', 'is', 'best', 'to', 'opt', 'for', 'take', 'away', 'or', 'home', 'delivery.Food', '--', '--', 'I', 'have', 'been', 'having', 'their', 'rolls', 'and', 'Biriyanis', 'for', 'last', '5', 'years', 'now', ',', 'not', 'very', 'regularly', 'though', '.']['It', 'is', 'best', 'to', 'opt', 'for', 'take', 'away', 'or', 'home', 'delivery.Food', '--', '--', 'I', 'have', 'been', 'having', 'their', 'rolls', 'and', 'Biriyanis', 'for', 'last', '5', 'years', 'now', ',', 'not', 'very', 'regularly', 'though', '.']
+ ------------------ 
+['The', 'quality', 'of', 'Biriyani', 'is', 'still', 'the', 'same', 'but', 'their', 'rolls', 'used', 'to', 'be', 'awesome', 'with', 'generous', 'stuffings', 'few', 'years', 'back', 'which', 'has', 'changed', 'a', 'bit', '.']['The', 'quality', 'of', 'Biriyani', 'is', 'still', 'the', 'same', 'but', 'their', 'rolls', 'used', 'to', 'be', 'awesome', 'with', 'generous', 'stuffings', 'few', 'years', 'back', 'which', 'has', 'changed', 'a', 'bit', '.']
+ ------------------ 
+['But', 'you', 'can', 'still', 'try', 'out', 'their', 'egg', 'chicken', 'rolls', 'for', 'evening', 'snacks', ',', 'its', 'still', 'quite', 'tasty', 'and', 'filling', '.']['But', 'you', 'can', 'still', 'try', 'out', 'their', 'egg', 'chicken', 'rolls', 'for', 'evening', 'snacks', ',', 'its', 'still', 'quite', 'tasty', 'and', 'filling', '.']
+ ------------------ 
+['The', 'rush', 'to', 'grab', 'a', 'roll', 'is', 'very', 'noticeable', 'during', 'the', 'pick', 'evening', 'hours', '.']['The', 'rush', 'to', 'grab', 'a', 'roll', 'is', 'very', 'noticeable', 'during', 'the', 'pick', 'evening', 'hours', '.']
+ ------------------ 
+['The', 'biriyani', 'is', 'generally', 'served', 'from', 'a', 'handi', 'which', 'might', 'not', 'be', 'very', 'warm', ',', 'so', 'its', 'best', 'to', 'take', 'it', 'away', '.']['The', 'biriyani', 'is', 'generally', 'served', 'from', 'a', 'handi', 'which', 'might', 'not', 'be', 'very', 'warm', ',', 'so', 'its', 'best', 'to', 'take', 'it', 'away', '.']
+ ------------------ 
+['The', 'chicken', 'biriyani', 'comes', 'at', 'reasonable', 'INR', '120', 'with', 'one', 'piece', 'of', 'sweet', 'potato', 'and', 'one', 'piece', 'of', 'chicken', ',', 'but', 'no', 'boiled', 'egg', 'is', 'provided', '.']['The', 'chicken', 'biriyani', 'comes', 'at', 'reasonable', 'INR', '120', 'with', 'one', 'piece', 'of', 'sweet', 'potato', 'and', 'one', 'piece', 'of', 'chicken', ',', 'but', 'no', 'boiled', 'egg', 'is', 'provided', '.']
+ ------------------ 
+['The', 'quantity', 'is', 'generous', 'and', 'the', 'quality', 'is', 'okayish', ',', 'but', 'its', 'not', 'very', 'oily', 'which', 'is', 'a', 'good', 'part.Service', '--', '--', 'Very', 'mechanical', 'to', 'say', 'the', 'least', ',', 'not', 'very', 'warm', '.']['The', 'quantity', 'is', 'generous', 'and', 'the', 'quality', 'is', 'okayish', ',', 'but', 'its', 'not', 'very', 'oily', 'which', 'is', 'a', 'good', 'part.Service', '--', '--', 'Very', 'mechanical', 'to', 'say', 'the', 'least', ',', 'not', 'very', 'warm', '.']
+ ------------------ 
+['Though', 'you', 'will', 'face', 'no', 'issues', 'with', 'the', 'service', 'with', 'very', 'less', 'waiting', 'time', '.']['Though', 'you', 'will', 'face', 'no', 'issues', 'with', 'the', 'service', 'with', 'very', 'less', 'waiting', 'time', '.']
+ ------------------ 
+['You', 'need', 'to', 'place', 'the', 'order', 'at', 'the', 'cash', 'counter', 'and', 'they', 'provide', 'you', 'a', 'slip', 'which', 'needs', 'to', 'be', 'exchanged', 'for', 'food', 'at', 'the', 'other', 'end', 'of', 'the', 'shop', 'where', 'the', 'Biriyani', 'handi', 'is', 'placed', '.']['You', 'need', 'to', 'place', 'the', 'order', 'at', 'the', 'cash', 'counter', 'and', 'they', 'provide', 'you', 'a', 'slip', 'which', 'needs', 'to', 'be', 'exchanged', 'for', 'food', 'at', 'the', 'other', 'end', 'of', 'the', 'shop', 'where', 'the', 'Biriyani', 'handi', 'is', 'placed', '.']
+ ------------------ 
+['The', 'place', 'charges', 'no', 'extra', 'tax', 'and', 'prices', 'are', 'pretty', 'reasonable', 'considering', 'the', 'quality.Overall', '--', '--', 'You', 'will', 'not', 'find', 'any', 'street', 'side', 'biriyani', 'stall', 'in', 'Newtown', 'action', 'area-1', ',', 'so', 'this', 'stall', 'is', 'a', 'life', 'savior', 'for', 'many', 'who', 'are', 'looking', 'for', 'a', 'quick', 'roadside', 'meal', 'at', 'minimum', 'cost', '.']['The', 'place', 'charges', 'no', 'extra', 'tax', 'and', 'prices', 'are', 'pretty', 'reasonable', 'considering', 'the', 'quality.Overall', '--', '--', 'You', 'will', 'not', 'find', 'any', 'street', 'side', 'biriyani', 'stall', 'in', 'Newtown', 'action', 'area-1', ',', 'so', 'this', 'stall', 'is', 'a', 'life', 'savior', 'for', 'many', 'who', 'are', 'looking', 'for', 'a', 'quick', 'roadside', 'meal', 'at', 'minimum', 'cost', '.']
+ ------------------ 
+['Also', 'its', 'location', 'is', 'very', 'prominent', 'and', 'easy', 'to', 'reach', '.']['Also', 'its', 'location', 'is', 'very', 'prominent', 'and', 'easy', 'to', 'reach', '.']
+ ------------------ 
+['Only', 'I', 'would', 'suggest', 'to', 'keep', 'this', 'place', 'a', 'bit', 'cleaner', ',', 'like', 'it', 'was', 'few', 'years', 'back', '.']['Only', 'I', 'would', 'suggest', 'to', 'keep', 'this', 'place', 'a', 'bit', 'cleaner', ',', 'like', 'it', 'was', 'few', 'years', 'back', '.']
+ ------------------ 
+['The', 'quality', 'and', 'taste', 'of', 'food', 'is', 'as', 'expected', 'from', 'one', 'such', 'stall', ',', 'and', 'if', 'improved', 'can', 'be', 'an', 'additional', 'bonus.Cheers', '!', 'Been', 'there', 'few', 'days', 'back', '.']['The', 'quality', 'and', 'taste', 'of', 'food', 'is', 'as', 'expected', 'from', 'one', 'such', 'stall', ',', 'and', 'if', 'improved', 'can', 'be', 'an', 'additional', 'bonus.Cheers', '!', 'Been', 'there', 'few', 'days', 'back', '.']
+ ------------------ 
+['Regarding', 'quality', 'of', 'food', ',', 'i', 'would', 'say', 'it', 'is', 'just', 'average..', 'sitting', 'arrangement', 'is', 'not', 'good', 'at', 'all', '.']['Regarding', 'quality', 'of', 'food', ',', 'i', 'would', 'say', 'it', 'is', 'just', 'average..', 'sitting', 'arrangement', 'is', 'bad', 'at', 'all', '.']
+ ------------------ 
+['However', 'you', 'can', 'opt', 'for', 'it', 'once', ',', 'if', 'you', 'are', 'looking', 'for', 'take', 'away', 'or', 'home', 'delivery', 'of', 'some', 'average', 'quality', 'Biryani', 'in', 'low', 'price.Food', 'here', 'is', 'not', 'at', 'all', 'upto', 'the', 'mark', '.']['However', 'you', 'can', 'opt', 'for', 'it', 'once', ',', 'if', 'you', 'are', 'looking', 'for', 'take', 'away', 'or', 'home', 'delivery', 'of', 'some', 'average', 'quality', 'Biryani', 'in', 'low', 'price.Food', 'here', 'is', 'not', 'at', 'all', 'upto', 'the', 'mark', '.']
+ ------------------ 
+['Very', 'oily', 'and', 'totally', 'unhygienic', '.']['Very', 'oily', 'and', 'totally', 'unhygienic', '.']
+ ------------------ 
+['Service', 'is', 'prompt', '.']['Service', 'is', 'prompt', '.']
+ ------------------ 
+['Price', 'not', 'much', 'though', 'but', 'quality', 'is', 'really', 'bad', 'and', 'seating', 'arrangement', 'is', 'very', 'poor.Bad', 'biriyani', '.']['Price', 'little', 'though', 'but', 'quality', 'is', 'really', 'bad', 'and', 'seating', 'arrangement', 'is', 'very', 'poor.Bad', 'biriyani', '.']
+ ------------------ 
+['Good', 'rolls', '.']['Good', 'rolls', '.']
+ ------------------ 
+['Bad', 'hygiene', '.']['Bad', 'hygiene', '.']
+ ------------------ 
+['Bad', 'seating', 'arrangement', '.']['Bad', 'seating', 'arrangement', '.']
+ ------------------ 
+['Good', 'value', 'for', 'money', '.']['Good', 'value', 'for', 'money', '.']
+ ------------------ 
+['Good', 'for', 'home', 'delivery', '.']['Good', 'for', 'home', 'delivery', '.']
+ ------------------ 
+['(', 'only', 'rolls', ')', '.']['(', 'only', 'rolls', ')', '.']
+ ------------------ 
+['All', 'in', 'all', 'hop', 'in', 'for', 'a', 'quick', 'snack', 'but', 'do', 'not', 'plan', 'to', 'sit', 'here', 'and', 'dine.A', 'decent', 'take', 'away', '/', 'home', 'delivery.Good', 'for', 'lazy', 'days.Ordered', '2', 'mutton', 'biriyanis', 'and', 'one', 'chicken', 'kasha.Biriyani', 'was', 'little', 'spicy', 'but', 'tasted', 'somewhat', 'ok', ',', 'mutton', 'pieces', 'were', 'little', 'hard', ',', 'chicken', 'kasha', 'was', 'not', 'good', '.']['All', 'in', 'all', 'hop', 'in', 'for', 'a', 'quick', 'snack', 'but', 'do', 'not', 'plan', 'to', 'sit', 'here', 'and', 'dine.A', 'decent', 'take', 'away', '/', 'home', 'delivery.Good', 'for', 'lazy', 'days.Ordered', '2', 'mutton', 'biriyanis', 'and', 'one', 'chicken', 'kasha.Biriyani', 'was', 'little', 'spicy', 'but', 'tasted', 'somewhat', 'ok', ',', 'mutton', 'pieces', 'were', 'little', 'hard', ',', 'chicken', 'kasha', 'was', 'bad', '.']
+ ------------------ 
+['But', 'Delivery', 'was', 'prompt', 'and', 'was', 'in', 'time.If', 'taste', 'was', 'better', 'I', 'could', 'have', 'rated', 'more.Biryani', 'bar', ',', 'is', 'the', 'one', 'outlet', 'I', 'lookout', 'always', 'for', 'there', 'amazing', 'chicken', 'rolls', ',', 'which', 'are', 'really', 'tasty', 'and', 'almost', 'a', 'size', 'of', 'a', 'mini', 'meal', '.']['But', 'Delivery', 'was', 'prompt', 'and', 'was', 'in', 'time.If', 'taste', 'was', 'better', 'I', 'could', 'have', 'rated', 'more.Biryani', 'bar', ',', 'is', 'the', 'one', 'outlet', 'I', 'lookout', 'always', 'for', 'there', 'amazing', 'chicken', 'rolls', ',', 'which', 'are', 'really', 'tasty', 'and', 'almost', 'a', 'size', 'of', 'a', 'mini', 'meal', '.']
+ ------------------ 
+['At', 'times', 'I', 'had', 'there', 'other', 'items', 'which', 'are', 'ok', '.']['At', 'times', 'I', 'had', 'there', 'other', 'items', 'which', 'are', 'ok', '.']
+ ------------------ 
+['Overall', 'looking', 'for', 'food', 'then', 'it', 'is', 'okay', 'to', 'eat', ',', 'but', 'check', 'out', 'there', 'that', 'rolls.good', 'food', '.']['Overall', 'looking', 'for', 'food', 'then', 'it', 'is', 'okay', 'to', 'eat', ',', 'but', 'check', 'out', 'there', 'that', 'rolls.good', 'food', '.']
+ ------------------ 
+['remain', 'open', 'late', 'night', '.']['remain', 'open', 'late', 'night', '.']
+ ------------------ 
+['good', 'place', 'to', 'hang', 'out', 'with', 'your', 'friends', '.']['good', 'place', 'to', 'hang', 'out', 'with', 'your', 'friends', '.']
+ ------------------ 
+['offers', 'home', 'delivery', '.']['offers', 'home', 'delivery', '.']
+ ------------------ 
+['recommend', 'food', ':', 'biryani', 'and', 'chicken', 'pakodas.Good', 'food', ',', 'No', 'proper', 'sitting', 'arrangement.Service', 'quality', 'is', '2/5', 'Good', 'place', 'to', 'try', 'some', 'biriyani', 'or', 'chicken', 'chap', 'with', 'paratha', 'with', 'frnd', 'on', 'a', 'summer', 'eveningGroup', 'of', 'stalls', 'offering', 'Chinese', ',', 'Rolls', 'and', 'North', 'Indian', '.']['recommend', 'food', ':', 'biryani', 'and', 'chicken', 'pakodas.Good', 'food', ',', 'No', 'proper', 'sitting', 'arrangement.Service', 'quality', 'is', '2/5', 'Good', 'place', 'to', 'try', 'some', 'biriyani', 'or', 'chicken', 'chap', 'with', 'paratha', 'with', 'frnd', 'on', 'a', 'summer', 'eveningGroup', 'of', 'stalls', 'offering', 'Chinese', ',', 'Rolls', 'and', 'North', 'Indian', '.']
+ ------------------ 
+['Do', 'not', 'expect', 'much', 'from', 'these', 'stalls', '.']['Do', 'not', 'expect', 'much', 'from', 'these', 'stalls', '.']
+ ------------------ 
+['It', 'might', 'be', 'good', 'place', 'to', 'eat', 'locals', 'but', 'imperfect', 'for', 'non-locals', '.']['It', 'might', 'be', 'good', 'place', 'to', 'eat', 'locals', 'but', 'imperfect', 'for', 'non-locals', '.']
+ ------------------ 
+['Ambiance', 'is', 'good', 'but', 'lacks', 'in', 'taste', '.']['Ambiance', 'is', 'good', 'but', 'lacks', 'in', 'taste', '.']
+ ------------------ 
+['I', 'will', 'prefer', 'to', 'visit', 'this', 'place', 'when', 'there', 'z', 'no', 'other', 'option', 'for', 'me.The', 'best', 'and', 'worst', 'part', 'of', 'this', 'joint', 'is', 'that', 'they', 'run', 'on', 'relationships', '.']['I', 'will', 'prefer', 'to', 'visit', 'this', 'place', 'when', 'there', 'z', 'no', 'other', 'option', 'for', 'me.The', 'best', 'and', 'worst', 'part', 'of', 'this', 'joint', 'is', 'that', 'they', 'run', 'on', 'relationships', '.']
+ ------------------ 
+['If', 'a', 'customer', 'is', 'old', ',', 'they', 'will', 'treat', 'them', 'royally', '.']['If', 'a', 'customer', 'is', 'old', ',', 'they', 'will', 'treat', 'them', 'royally', '.']
+ ------------------ 
+['If', 'he', 'is', 'new', ',', 'he', 'can', 'go', 'to', 'hell.Since', 'I', 'have', 'been', 'going', 'there', 'for', 'years', 'now', ',', 'I', 'get', 'quite', 'good', 'service.Food', 'is', 'tasty', ',', 'but', 'most', 'certainly', 'not', 'healthy', '!']['If', 'he', 'is', 'new', ',', 'he', 'can', 'go', 'to', 'hell.Since', 'I', 'have', 'been', 'going', 'there', 'for', 'years', 'now', ',', 'I', 'get', 'quite', 'good', 'service.Food', 'is', 'tasty', ',', 'but', 'most', 'certainly', 'unhealthy', '!']
+ ------------------ 
+['But', 'I', 'guess', 'if', 'you', 'wanted', 'to', 'take', 'care', 'of', 'your', 'health', ',', 'you', 'would', 'go', 'to', 'Aminia', 'or', 'Only', 'Alibaba', ',', 'right', '?']['But', 'I', 'guess', 'if', 'you', 'wanted', 'to', 'take', 'care', 'of', 'your', 'health', ',', 'you', 'would', 'go', 'to', 'Aminia', 'or', 'Only', 'Alibaba', ',', 'right', '?']
+ ------------------ 
+[';', ')', 'Kindly', 'Note', 'That', 'It', 'is', 'Not', 'A', 'Restaurant', '.'][';', ')', 'Kindly', 'Note', 'That', 'It', 'is', 'Not', 'A', 'Restaurant', '.']
+ ------------------ 
+['It', 'is', 'More', 'A', 'Take', 'Away', 'Centre', '.']['It', 'is', 'More', 'A', 'Take', 'Away', 'Centre', '.']
+ ------------------ 
+['Had', 'Biryani', 'Couple', 'Of', 'Days', 'Back', '.']['Had', 'Biryani', 'Couple', 'Of', 'Days', 'Back', '.']
+ ------------------ 
+['Tastes', 'Good', '.']['Tastes', 'Good', '.']
+ ------------------ 
+['Portion', 'Is', 'Also', 'Alright', '.']['Portion', 'Is', 'Also', 'Alright', '.']
+ ------------------ 
+['Though', 'They', 'Dont', 'Provide', 'Egg', 'In', 'Biryani', '.']['Though', 'They', 'Dont', 'Provide', 'Egg', 'In', 'Biryani', '.']
+ ------------------ 
+['Never', 'Tried', 'Chaap', '&', 'KebabsIt', 'is', 'a', 'biryani', 'eatery', 'located', 'in', 'the', 'New', 'Town', 'bus', 'stand', '.']['Never', 'Tried', 'Chaap', '&', 'KebabsIt', 'is', 'a', 'biryani', 'eatery', 'located', 'in', 'the', 'New', 'Town', 'bus', 'stand', '.']
+ ------------------ 
+['Their', 'kebabs', 'and', 'side', 'dishes', 'are', 'pretty', 'awesome', '.']['Their', 'kebabs', 'and', 'side', 'dishes', 'are', 'pretty', 'awesome', '.']
+ ------------------ 
+['Biryani', 'is', 'good', 'enough', '(', 'I', 'prefer', 'Alibaba', 'though', ')', ',', 'and', 'they', 'deliver', 'to', 'your', 'home', '.']['Biryani', 'is', 'good', 'enough', '(', 'I', 'prefer', 'Alibaba', 'though', ')', ',', 'and', 'they', 'deliver', 'to', 'your', 'home', '.']
+ ------------------ 
+['Pretty', 'good', 'in', 'my', 'opinion.Awesome', 'reshmi', 'kababa', 'and', 'paratha', ',', 'just', 'out', 'of', 'this', 'world', '<', '3', ',', 'Their', 'reshmi', 'kabab', 'is', 'best', 'in', 'the', 'city', 'for', 'me', ',', 'and', 'pinch', 'of', 'pudine', 'ki', 'chatni', 'and', 'partah', 'stole', 'my', 'heartGroup', 'of', 'stalls', 'offering', 'Chinese', ',', 'Rolls', 'and', 'North', 'Indian', '.']['Pretty', 'good', 'in', 'my', 'opinion.Awesome', 'reshmi', 'kababa', 'and', 'paratha', ',', 'just', 'out', 'of', 'this', 'world', '<', '3', ',', 'Their', 'reshmi', 'kabab', 'is', 'best', 'in', 'the', 'city', 'for', 'me', ',', 'and', 'pinch', 'of', 'pudine', 'ki', 'chatni', 'and', 'partah', 'stole', 'my', 'heartGroup', 'of', 'stalls', 'offering', 'Chinese', ',', 'Rolls', 'and', 'North', 'Indian', '.']
+ ------------------ 
+['Do', 'not', 'expect', 'much', 'from', 'these', 'stalls', '.']['Do', 'not', 'expect', 'much', 'from', 'these', 'stalls', '.']
+ ------------------ 
+['It', 'might', 'be', 'good', 'place', 'to', 'eat', 'locals', 'but', 'imperfect', 'for', 'non-locals', '.']['It', 'might', 'be', 'good', 'place', 'to', 'eat', 'locals', 'but', 'imperfect', 'for', 'non-locals', '.']
+ ------------------ 
+['Ambiance', 'is', 'good', 'but', 'lacks', 'in', 'taste', '.']['Ambiance', 'is', 'good', 'but', 'lacks', 'in', 'taste', '.']
+ ------------------ 
+['I', 'will', 'prefer', 'to', 'visit', 'this', 'place', 'when', 'there', 'z', 'no', 'other', 'option', 'for', 'me.The', 'best', 'and', 'worst', 'part', 'of', 'this', 'joint', 'is', 'that', 'they', 'run', 'on', 'relationships', '.']['I', 'will', 'prefer', 'to', 'visit', 'this', 'place', 'when', 'there', 'z', 'no', 'other', 'option', 'for', 'me.The', 'best', 'and', 'worst', 'part', 'of', 'this', 'joint', 'is', 'that', 'they', 'run', 'on', 'relationships', '.']
+ ------------------ 
+['If', 'a', 'customer', 'is', 'old', ',', 'they', 'will', 'treat', 'them', 'royally', '.']['If', 'a', 'customer', 'is', 'old', ',', 'they', 'will', 'treat', 'them', 'royally', '.']
+ ------------------ 
+['If', 'he', 'is', 'new', ',', 'he', 'can', 'go', 'to', 'hell.Since', 'I', 'have', 'been', 'going', 'there', 'for', 'years', 'now', ',', 'I', 'get', 'quite', 'good', 'service.Food', 'is', 'tasty', ',', 'but', 'most', 'certainly', 'not', 'healthy', '!']['If', 'he', 'is', 'new', ',', 'he', 'can', 'go', 'to', 'hell.Since', 'I', 'have', 'been', 'going', 'there', 'for', 'years', 'now', ',', 'I', 'get', 'quite', 'good', 'service.Food', 'is', 'tasty', ',', 'but', 'most', 'certainly', 'unhealthy', '!']
+ ------------------ 
+['But', 'I', 'guess', 'if', 'you', 'wanted', 'to', 'take', 'care', 'of', 'your', 'health', ',', 'you', 'would', 'go', 'to', 'Aminia', 'or', 'Only', 'Alibaba', ',', 'right', '?']['But', 'I', 'guess', 'if', 'you', 'wanted', 'to', 'take', 'care', 'of', 'your', 'health', ',', 'you', 'would', 'go', 'to', 'Aminia', 'or', 'Only', 'Alibaba', ',', 'right', '?']
+ ------------------ 
+[';', ')', 'Kindly', 'Note', 'That', 'It', 'is', 'Not', 'A', 'Restaurant', '.'][';', ')', 'Kindly', 'Note', 'That', 'It', 'is', 'Not', 'A', 'Restaurant', '.']
+ ------------------ 
+['It', 'is', 'More', 'A', 'Take', 'Away', 'Centre', '.']['It', 'is', 'More', 'A', 'Take', 'Away', 'Centre', '.']
+ ------------------ 
+['Had', 'Biryani', 'Couple', 'Of', 'Days', 'Back', '.']['Had', 'Biryani', 'Couple', 'Of', 'Days', 'Back', '.']
+ ------------------ 
+['Tastes', 'Good', '.']['Tastes', 'Good', '.']
+ ------------------ 
+['Portion', 'Is', 'Also', 'Alright', '.']['Portion', 'Is', 'Also', 'Alright', '.']
+ ------------------ 
+['Though', 'They', 'Dont', 'Provide', 'Egg', 'In', 'Biryani', '.']['Though', 'They', 'Dont', 'Provide', 'Egg', 'In', 'Biryani', '.']
+ ------------------ 
+['Never', 'Tried', 'Chaap', '&', 'KebabsIt', 'is', 'a', 'biryani', 'eatery', 'located', 'in', 'the', 'New', 'Town', 'bus', 'stand', '.']['Never', 'Tried', 'Chaap', '&', 'KebabsIt', 'is', 'a', 'biryani', 'eatery', 'located', 'in', 'the', 'New', 'Town', 'bus', 'stand', '.']
+ ------------------ 
+['Their', 'kebabs', 'and', 'side', 'dishes', 'are', 'pretty', 'awesome', '.']['Their', 'kebabs', 'and', 'side', 'dishes', 'are', 'pretty', 'awesome', '.']
+ ------------------ 
+['Biryani', 'is', 'good', 'enough', '(', 'I', 'prefer', 'Alibaba', 'though', ')', ',', 'and', 'they', 'deliver', 'to', 'your', 'home', '.']['Biryani', 'is', 'good', 'enough', '(', 'I', 'prefer', 'Alibaba', 'though', ')', ',', 'and', 'they', 'deliver', 'to', 'your', 'home', '.']
+ ------------------ 
+['Pretty', 'good', 'in', 'my', 'opinion.Awesome', 'reshmi', 'kababa', 'and', 'paratha', ',', 'just', 'out', 'of', 'this', 'world', '<', '3', ',', 'Their', 'reshmi', 'kabab', 'is', 'best', 'in', 'the', 'city', 'for', 'me', ',', 'and', 'pinch', 'of', 'pudine', 'ki', 'chatni', 'and', 'partah', 'stole', 'my', 'heartIt', 'is', 'a', 'fast', 'food', 'counter', 'serving', 'a', 'variety', 'of', 'food', 'items', '.']['Pretty', 'good', 'in', 'my', 'opinion.Awesome', 'reshmi', 'kababa', 'and', 'paratha', ',', 'just', 'out', 'of', 'this', 'world', '<', '3', ',', 'Their', 'reshmi', 'kabab', 'is', 'best', 'in', 'the', 'city', 'for', 'me', ',', 'and', 'pinch', 'of', 'pudine', 'ki', 'chatni', 'and', 'partah', 'stole', 'my', 'heartIt', 'is', 'a', 'fast', 'food', 'counter', 'serving', 'a', 'variety', 'of', 'food', 'items', '.']
+ ------------------ 
+['From', 'Tandoori', 'to', 'Biryani', ',', 'kebabs', 'to', 'chicken', 'chaap', ',', 'it', 'tastes', 'good', 'for', 'a', 'place', 'this', 'small', '.']['From', 'Tandoori', 'to', 'Biryani', ',', 'kebabs', 'to', 'chicken', 'chaap', ',', 'it', 'tastes', 'good', 'for', 'a', 'place', 'this', 'small', '.']
+ ------------------ 
+['It', 'is', 'like', 'a', 'usual', 'street', 'side', 'food', 'counter', 'and', 'has', 'place', 'just', 'to', 'and', 'have', 'your', 'food', 'quickly', '.']['It', 'is', 'like', 'a', 'usual', 'street', 'side', 'food', 'counter', 'and', 'has', 'place', 'just', 'to', 'and', 'have', 'your', 'food', 'quickly', '.']
+ ------------------ 
+['One', 'should', 'definitely', 'try', 'the', 'different', 'kinds', 'of', 'rolls', 'they', 'offer', 'as', 'it', 'is', 'huge', 'for', 'the', 'price', 'they', 'charge.It', 'is', 'located', 'in', 'the', 'New', 'Town', 'bus', 'stand', 'food', 'complex', 'and', 'is', 'one', 'of', 'the', 'most', 'prominent', 'stalls', '.']['One', 'should', 'definitely', 'try', 'the', 'different', 'kinds', 'of', 'rolls', 'they', 'offer', 'as', 'it', 'is', 'huge', 'for', 'the', 'price', 'they', 'charge.It', 'is', 'located', 'in', 'the', 'New', 'Town', 'bus', 'stand', 'food', 'complex', 'and', 'is', 'one', 'of', 'the', 'most', 'prominent', 'stalls', '.']
+ ------------------ 
+['They', 'provide', 'home', 'deliveries', 'around', 'the', 'area', 'and', 'the', 'prices', 'are', 'low.Taste', 'of', 'food', 'is', 'good', 'here', 'and', 'the', 'quantity', 'is', 'good', 'for', 'the', 'price', '.']['They', 'provide', 'home', 'deliveries', 'around', 'the', 'area', 'and', 'the', 'prices', 'are', 'low.Taste', 'of', 'food', 'is', 'good', 'here', 'and', 'the', 'quantity', 'is', 'good', 'for', 'the', 'price', '.']
+ ------------------ 
+['Biryani', 'is', 'not', 'up', 'to', 'the', 'par', '.']['Biryani', 'is', 'down', 'to', 'the', 'par', '.']
+ ------------------ 
+['The', 'place', 'is', 'unhygienic', 'but', 'ok', 'for', 'some', 'quick', 'grabs.Good', 'quantity', 'and', 'delicious', 'quality', 'though', 'there', 'were', 'no', 'shade', 'or', 'ambience', 'was', 'like', 'a', 'road', 'side', 'dhaba', 'but', 'i', 'must', 'say', 'food', 'was', 'up', 'to', 'the', 'mark', '.']['The', 'place', 'is', 'unhygienic', 'but', 'ok', 'for', 'some', 'quick', 'grabs.Good', 'quantity', 'and', 'delicious', 'quality', 'though', 'there', 'were', 'no', 'shade', 'or', 'ambience', 'was', 'like', 'a', 'road', 'side', 'dhaba', 'but', 'i', 'must', 'say', 'food', 'was', 'up', 'to', 'the', 'mark', '.']
+ ------------------ 
+['I', 'had', 'biryani', 'with', 'ch', 'kasa', 'and', 'i', 'enjoyed', 'my', 'meal', '...', 'This', 'place', 'is', 'just', 'opposite', 'my', 'flat', 'and', 'I', 'often', 'grab', 'a', 'quick', 'bite', 'in', 'the', 'evenings', '.']['I', 'had', 'biryani', 'with', 'ch', 'kasa', 'and', 'i', 'enjoyed', 'my', 'meal', '...', 'This', 'place', 'is', 'just', 'opposite', 'my', 'flat', 'and', 'I', 'often', 'grab', 'a', 'quick', 'bite', 'in', 'the', 'evenings', '.']
+ ------------------ 
+['The', 'food', 'is', 'unhygenic', 'road', 'side', 'grub.Tasty', '.']['The', 'food', 'is', 'unhygenic', 'road', 'side', 'grub.Tasty', '.']
+ ------------------ 
+['Definitely.But', 'not', 'healthy', 'at', 'all.Do', 'not', 'drink', 'the', 'water', 'here.I', 'REPEAT', 'THAT.Egg', 'chicken', 'roll', 'for', '45', 'bucks', 'is', 'filling.The', 'biriyani', 'is', 'overpriced', 'at', '150', 'bucks', 'for', 'the', 'quality', 'they', 'serveDisappointing', 'joint', 'which', 'serves', 'stale', 'food', 'to', 'customers', '...', 'We', 'ordered', 'chicken', 'noodles', 'from', 'this', 'joint', 'yesterday', '...', '.', 'to', 'our', 'dismay', 'the', 'food', 'was', 'completely', 'stale', '.']['Definitely.But', 'unhealthy', 'at', 'all.Do', 'not', 'drink', 'the', 'water', 'here.I', 'REPEAT', 'THAT.Egg', 'chicken', 'roll', 'for', '45', 'bucks', 'is', 'filling.The', 'biriyani', 'is', 'overpriced', 'at', '150', 'bucks', 'for', 'the', 'quality', 'they', 'serveDisappointing', 'joint', 'which', 'serves', 'stale', 'food', 'to', 'customers', '...', 'We', 'ordered', 'chicken', 'noodles', 'from', 'this', 'joint', 'yesterday', '...', '.', 'to', 'our', 'dismay', 'the', 'food', 'was', 'completely', 'stale', '.']
+ ------------------ 
+['We', 'gave', 'them', 'a', 'call', 'for', 'the', 'issue', 'and', 'they', 'agreed', 'to', 'change', 'the', 'food', 'and', 'provided', 'us', 'with', 'replacement', 'plates', 'on', 'returning', 'the', 'untouched', 'food', '...', '...']['We', 'gave', 'them', 'a', 'call', 'for', 'the', 'issue', 'and', 'they', 'agreed', 'to', 'change', 'the', 'food', 'and', 'provided', 'us', 'with', 'replacement', 'plates', 'on', 'returning', 'the', 'untouched', 'food', '...', '...']
+ ------------------ 
+['This', 'time', 'the', 'food', 'was', 'no', 'different', '...', '.']['This', 'time', 'the', 'food', 'was', 'no', 'different', '...', '.']
+ ------------------ 
+['It', 'was', 'just', 'filled', 'with', 'black', 'pepper', 'and', 'sauce', 'to', 'make', 'sure', 'the', 'stale', 'taste', 'was', 'covered', '...', '.', 'Little', 'do', 'they', 'know', 'that', 'you', 'cant', 'garnish', 'stale', 'food', 'to', 'make', 'the', 'smell', 'go', '...', '...', '.']['It', 'was', 'just', 'filled', 'with', 'black', 'pepper', 'and', 'sauce', 'to', 'make', 'sure', 'the', 'stale', 'taste', 'was', 'covered', '...', '.', 'Little', 'do', 'they', 'know', 'that', 'you', 'cant', 'garnish', 'stale', 'food', 'to', 'make', 'the', 'smell', 'go', '...', '...', '.']
+ ------------------ 
+['Please', 'avoid', 'if', 'you', 'want', 'edible', 'food', 'as', 'they', 'are', 'cheaters', '...', '...', 'It', 'is', 'a', 'fast', 'food', 'counter', 'serving', 'a', 'variety', 'of', 'food', 'items', '.']['Please', 'avoid', 'if', 'you', 'want', 'edible', 'food', 'as', 'they', 'are', 'cheaters', '...', '...', 'It', 'is', 'a', 'fast', 'food', 'counter', 'serving', 'a', 'variety', 'of', 'food', 'items', '.']
+ ------------------ 
+['From', 'Tandoori', 'to', 'Biryani', ',', 'kebabs', 'to', 'chicken', 'chaap', ',', 'it', 'tastes', 'good', 'for', 'a', 'place', 'this', 'small', '.']['From', 'Tandoori', 'to', 'Biryani', ',', 'kebabs', 'to', 'chicken', 'chaap', ',', 'it', 'tastes', 'good', 'for', 'a', 'place', 'this', 'small', '.']
+ ------------------ 
+['It', 'is', 'like', 'a', 'usual', 'street', 'side', 'food', 'counter', 'and', 'has', 'place', 'just', 'to', 'sit', 'and', 'have', 'your', 'food', 'quickly', '.']['It', 'is', 'like', 'a', 'usual', 'street', 'side', 'food', 'counter', 'and', 'has', 'place', 'just', 'to', 'sit', 'and', 'have', 'your', 'food', 'quickly', '.']
+ ------------------ 
+['One', 'should', 'definitely', 'try', 'the', 'different', 'kinds', 'of', 'rolls', 'they', 'offer', 'as', 'it', 'is', 'huge', 'for', 'the', 'price', 'they', 'charge.It', 'is', 'located', 'in', 'the', 'New', 'Town', 'bus', 'stand', 'food', 'complex', 'and', 'is', 'one', 'of', 'the', 'most', 'prominent', 'stalls', '.']['One', 'should', 'definitely', 'try', 'the', 'different', 'kinds', 'of', 'rolls', 'they', 'offer', 'as', 'it', 'is', 'huge', 'for', 'the', 'price', 'they', 'charge.It', 'is', 'located', 'in', 'the', 'New', 'Town', 'bus', 'stand', 'food', 'complex', 'and', 'is', 'one', 'of', 'the', 'most', 'prominent', 'stalls', '.']
+ ------------------ 
+['They', 'provide', 'home', 'deliveries', 'around', 'the', 'area', 'and', 'the', 'prices', 'are', 'low.Taste', 'of', 'food', 'is', 'good', 'here', 'and', 'the', 'quantity', 'is', 'good', 'for', 'the', 'price', '.']['They', 'provide', 'home', 'deliveries', 'around', 'the', 'area', 'and', 'the', 'prices', 'are', 'low.Taste', 'of', 'food', 'is', 'good', 'here', 'and', 'the', 'quantity', 'is', 'good', 'for', 'the', 'price', '.']
+ ------------------ 
+['Biryani', 'is', 'not', 'up', 'to', 'the', 'par', '.']['Biryani', 'is', 'down', 'to', 'the', 'par', '.']
+ ------------------ 
+['The', 'place', 'is', 'unhygienic', 'but', 'ok', 'for', 'some', 'quick', 'grabs.Good', 'quantity', 'and', 'delicious', 'quality', 'though', 'there', 'were', 'no', 'shade', 'or', 'ambience', 'was', 'like', 'a', 'road', 'side', 'dhaba', 'but', 'i', 'must', 'say', 'food', 'was', 'up', 'to', 'the', 'mark', '.']['The', 'place', 'is', 'unhygienic', 'but', 'ok', 'for', 'some', 'quick', 'grabs.Good', 'quantity', 'and', 'delicious', 'quality', 'though', 'there', 'were', 'no', 'shade', 'or', 'ambience', 'was', 'like', 'a', 'road', 'side', 'dhaba', 'but', 'i', 'must', 'say', 'food', 'was', 'up', 'to', 'the', 'mark', '.']
+ ------------------ 
+['I', 'had', 'biryani', 'with', 'ch', 'kasa', 'and', 'i', 'enjoyed', 'my', 'meal', '...', 'This', 'place', 'is', 'just', 'opposite', 'my', 'flat', 'and', 'I', 'often', 'grab', 'a', 'quick', 'bite', 'in', 'the', 'evenings', '.']['I', 'had', 'biryani', 'with', 'ch', 'kasa', 'and', 'i', 'enjoyed', 'my', 'meal', '...', 'This', 'place', 'is', 'just', 'opposite', 'my', 'flat', 'and', 'I', 'often', 'grab', 'a', 'quick', 'bite', 'in', 'the', 'evenings', '.']
+ ------------------ 
+['The', 'food', 'is', 'unhygenic', 'road', 'side', 'grub.Tasty', '.']['The', 'food', 'is', 'unhygenic', 'road', 'side', 'grub.Tasty', '.']
+ ------------------ 
+['Definitely.But', 'not', 'healthy', 'at', 'all.Do', 'not', 'drink', 'the', 'water', 'here.I', 'REPEAT', 'THAT.Egg', 'chicken', 'roll', 'for', '45', 'bucks', 'is', 'filling.The', 'biriyani', 'is', 'overpriced', 'at', '150', 'bucks', 'for', 'the', 'quality', 'they', 'serveDisappointing', 'joint', 'which', 'serves', 'stale', 'food', 'to', 'customers', '...', 'We', 'ordered', 'chicken', 'noodles', 'from', 'this', 'joint', 'yesterday', '...', '.', 'to', 'our', 'dismay', 'the', 'food', 'was', 'completely', 'stale', '.']['Definitely.But', 'unhealthy', 'at', 'all.Do', 'not', 'drink', 'the', 'water', 'here.I', 'REPEAT', 'THAT.Egg', 'chicken', 'roll', 'for', '45', 'bucks', 'is', 'filling.The', 'biriyani', 'is', 'overpriced', 'at', '150', 'bucks', 'for', 'the', 'quality', 'they', 'serveDisappointing', 'joint', 'which', 'serves', 'stale', 'food', 'to', 'customers', '...', 'We', 'ordered', 'chicken', 'noodles', 'from', 'this', 'joint', 'yesterday', '...', '.', 'to', 'our', 'dismay', 'the', 'food', 'was', 'completely', 'stale', '.']
+ ------------------ 
+['We', 'gave', 'them', 'a', 'call', 'for', 'the', 'issue', 'and', 'they', 'agreed', 'to', 'change', 'the', 'food', 'and', 'provided', 'us', 'with', 'replacement', 'plates', 'on', 'returning', 'the', 'untouched', 'food', '...', '...']['We', 'gave', 'them', 'a', 'call', 'for', 'the', 'issue', 'and', 'they', 'agreed', 'to', 'change', 'the', 'food', 'and', 'provided', 'us', 'with', 'replacement', 'plates', 'on', 'returning', 'the', 'untouched', 'food', '...', '...']
+ ------------------ 
+['This', 'time', 'the', 'food', 'was', 'no', 'different', '...', '.']['This', 'time', 'the', 'food', 'was', 'no', 'different', '...', '.']
+ ------------------ 
+['It', 'was', 'just', 'filled', 'with', 'black', 'pepper', 'and', 'sauce', 'to', 'make', 'sure', 'the', 'stale', 'taste', 'was', 'covered', '...', '.', 'Little', 'do', 'they', 'know', 'that', 'you', 'cant', 'garnish', 'stale', 'food', 'to', 'make', 'the', 'smell', 'go', '...', '...', '.']['It', 'was', 'just', 'filled', 'with', 'black', 'pepper', 'and', 'sauce', 'to', 'make', 'sure', 'the', 'stale', 'taste', 'was', 'covered', '...', '.', 'Little', 'do', 'they', 'know', 'that', 'you', 'cant', 'garnish', 'stale', 'food', 'to', 'make', 'the', 'smell', 'go', '...', '...', '.']
+ ------------------ 
+['Please', 'avoid', 'if', 'you', 'want', 'edible', 'food', 'as', 'they', 'are', 'cheaters', '...', '...', 'The', 'name', 'of', 'the', 'shop', 'really', 'amused', 'me', '.']['Please', 'avoid', 'if', 'you', 'want', 'edible', 'food', 'as', 'they', 'are', 'cheaters', '...', '...', 'The', 'name', 'of', 'the', 'shop', 'really', 'amused', 'me', '.']
+ ------------------ 
+['The', 'food', 'quality', 'is', 'at', 'par', 'with', 'what', 'you', 'will', 'expect', 'when', 'you', 'see', 'the', 'shop', 'or', 'it', 'might', 'just', 'surprise', 'you', 'a', 'bit', 'as', 'well', '.']['The', 'food', 'quality', 'is', 'at', 'par', 'with', 'what', 'you', 'will', 'expect', 'when', 'you', 'see', 'the', 'shop', 'or', 'it', 'might', 'just', 'surprise', 'you', 'a', 'bit', 'as', 'well', '.']
+ ------------------ 
+['The', 'service', 'provided', 'is', 'quite', 'good', '.']['The', 'service', 'provided', 'is', 'quite', 'good', '.']
+ ------------------ 
+['The', 'taste', 'of', 'food', 'is', 'nog', 'disappointing', '.']['The', 'taste', 'of', 'food', 'is', 'nog', 'disappointing', '.']
+ ------------------ 
+['An', 'easy', 'to', 'pocket', ',', 'pick', 'up', 'food', 'corner', 'for', 'all', 'the', 'residents', 'and', 'office', 'goers', 'near', 'by.Not', 'so', 'good', 'with', 'the', 'food', 'quality', 'as', 'well', 'with', 'the', 'quality', '.']['An', 'easy', 'to', 'pocket', ',', 'pick', 'up', 'food', 'corner', 'for', 'all', 'the', 'residents', 'and', 'office', 'goers', 'near', 'by.Not', 'so', 'good', 'with', 'the', 'food', 'quality', 'as', 'well', 'with', 'the', 'quality', '.']
+ ------------------ 
+['Buy', 'the', 'looks', 'of', 'it', 'you', 'can', 'that', 'the', 'food', 'is', 'not', 'so', 'hygienic', '...']['Buy', 'the', 'looks', 'of', 'it', 'you', 'can', 'that', 'the', 'food', 'is', 'not', 'so', 'hygienic', '...']
+ ------------------ 
+['But', 'as', 'for', 'the', 'New', 'town', 'people', 'its', 'a', 'place', 'that', 'will', 'provide', 'the', 'food', 'wen', 'their', 'is', 'no', 'other', 'option', '.']['But', 'as', 'for', 'the', 'New', 'town', 'people', 'its', 'a', 'place', 'that', 'will', 'provide', 'the', 'food', 'wen', 'their', 'is', 'no', 'other', 'option', '.']
+ ------------------ 
+['Food', 'is', 'cheap', 'and', 'you', 'have', 'to', 'eat', 'outside', ',', 'in', 'the', 'open', 'sky', '.']['Food', 'is', 'cheap', 'and', 'you', 'have', 'to', 'eat', 'outside', ',', 'in', 'the', 'open', 'sky', '.']
+ ------------------ 
+['Have', 'tried', 'Rolls-Good', ',', 'Laccha', 'Paratha-Good', ',', 'Manchurian-', 'Good', ',', 'Chilly', 'Paneer-', 'Bad.Not', 'exactly', 'a', 'place', 'to', 'sit', 'and', 'eat', 'specially', 'at', 'after', 'noon', 'as', 'its', 'open', 'and', 'their', 'aint', 'even', 'a', 'shade', '.']['Have', 'tried', 'Rolls-Good', ',', 'Laccha', 'Paratha-Good', ',', 'Manchurian-', 'Good', ',', 'Chilly', 'Paneer-', 'Bad.Not', 'exactly', 'a', 'place', 'to', 'sit', 'and', 'eat', 'specially', 'at', 'after', 'noon', 'as', 'its', 'open', 'and', 'their', 'aint', 'even', 'a', 'shade', '.']
+ ------------------ 
+['They', 'seriously', 'need', 'to', 'work', 'on', 'hygiene.Food', 'here', 'is', 'nothing', 'special', 'and', 'slightly', 'over', 'priced', 'as', 'compared', 'to', 'the', 'quality', '(', 'The', 'menu', 'here', 'on', 'zomato', 'is', 'not', 'updated', ')', '.']['They', 'seriously', 'need', 'to', 'work', 'on', 'hygiene.Food', 'here', 'is', 'nothing', 'special', 'and', 'slightly', 'over', 'priced', 'as', 'compared', 'to', 'the', 'quality', '(', 'The', 'menu', 'here', 'on', 'zomato', 'is', 'not', 'updated', ')', '.']
+ ------------------ 
+['However', 'the', 'chicken', 'biryani', 'here', 'is', 'pretty', 'decent.Located', 'near', 'the', 'road', 'to', 'NewTown', ',', 'Kolkata', ',', 'this', 'place', 'is', 'more', 'of', 'a', 'small', 'roadside', 'cafe', 'than', 'a', 'biryani', 'place', 'such', 'as', 'Arsalan', ',', 'Haji', ',', 'Aminia', ',', 'etc', '.']['However', 'the', 'chicken', 'biryani', 'here', 'is', 'pretty', 'decent.Located', 'near', 'the', 'road', 'to', 'NewTown', ',', 'Kolkata', ',', 'this', 'place', 'is', 'more', 'of', 'a', 'small', 'roadside', 'cafe', 'than', 'a', 'biryani', 'place', 'such', 'as', 'Arsalan', ',', 'Haji', ',', 'Aminia', ',', 'etc', '.']
+ ------------------ 
+['Even', 'their', 'menu', 'suggests', 'so', '.']['Even', 'their', 'menu', 'suggests', 'so', '.']
+ ------------------ 
+['These', 'people', 'sell', 'almost', 'all', 'the', 'dishes', 'from', 'chow', 'mein', ',', 'rolls', ',', 'etc', '.']['These', 'people', 'sell', 'almost', 'all', 'the', 'dishes', 'from', 'chow', 'mein', ',', 'rolls', ',', 'etc', '.']
+ ------------------ 
+['On', 'my', 'first', 'visit', 'to', 'this', 'place', 'I', 'was', 'actually', 'doubtful', 'whether', 'they', 'actually', 'sell', 'biryani', 'or', 'was', 'it', 'a', 'new', 'shop', 'which', 'had', 'forgotten', 'to', 'remove', 'the', 'hoardings', 'of', 'the', 'previous', 'shop', 'is', 'name', '.']['On', 'my', 'first', 'visit', 'to', 'this', 'place', 'I', 'was', 'actually', 'doubtful', 'whether', 'they', 'actually', 'sell', 'biryani', 'or', 'was', 'it', 'a', 'new', 'shop', 'which', 'had', 'forgotten', 'to', 'remove', 'the', 'hoardings', 'of', 'the', 'previous', 'shop', 'is', 'name', '.']
+ ------------------ 
+['After', 'I', 'realized', 'that', 'it', 'really', 'was', 'the', 'same', 'shop', 'I', 'went', 'and', 'ordered', 'a', 'plate', 'of', 'mutton', 'biryani', 'to', 'be', 'parcelled', '.']['After', 'I', 'realized', 'that', 'it', 'really', 'was', 'the', 'same', 'shop', 'I', 'went', 'and', 'ordered', 'a', 'plate', 'of', 'mutton', 'biryani', 'to', 'be', 'parcelled', '.']
+ ------------------ 
+['I', 'was', 'really', 'impressed', 'with', 'the', 'pace', 'at', 'which', 'they', 'packed', 'and', 'handed', 'it', 'to', 'me', '.']['I', 'was', 'really', 'impressed', 'with', 'the', 'pace', 'at', 'which', 'they', 'packed', 'and', 'handed', 'it', 'to', 'me', '.']
+ ------------------ 
+['However', 'I', 'was', 'not', 'really', 'impressed', 'with', 'the', 'quality', 'or', 'price', 'of', 'the', 'biryani', '.']['However', 'I', 'was', 'not', 'really', 'impressed', 'with', 'the', 'quality', 'or', 'price', 'of', 'the', 'biryani', '.']
+ ------------------ 
+['Though', 'the', 'quantity', 'was', 'good', 'and', 'it', 'tasted', 'fine', 'but', 'I', 'have', 'tasted', 'better', 'biryanis', 'in', 'the', 'city', 'at', 'cheaper', 'price', '.']['Though', 'the', 'quantity', 'was', 'good', 'and', 'it', 'tasted', 'fine', 'but', 'I', 'have', 'tasted', 'better', 'biryanis', 'in', 'the', 'city', 'at', 'cheaper', 'price', '.']
+ ------------------ 
+['The', 'biryani', 'seemed', 'a', 'bit', 'oily', 'and', 'definitely', 'a', 'bit', 'over', 'priced', 'with', 'respect', 'to', 'its', 'quality', '.']['The', 'biryani', 'seemed', 'a', 'bit', 'oily', 'and', 'definitely', 'a', 'bit', 'over', 'priced', 'with', 'respect', 'to', 'its', 'quality', '.']
+ ------------------ 
+['I', 'however', 'liked', 'the', 'fact', 'that', 'they', 'provide', 'free', 'home', 'delivery', 'as', 'dining', 'in', 'is', 'not', 'the', 'best', 'idea', 'unless', 'you', 'are', 'a', 'college', 'going', 'student', 'or', 'a', 'young', 'office', 'goers', '.']['I', 'however', 'liked', 'the', 'fact', 'that', 'they', 'provide', 'free', 'home', 'delivery', 'as', 'dining', 'in', 'is', 'not', 'the', 'best', 'idea', 'unless', 'you', 'are', 'a', 'college', 'going', 'student', 'or', 'a', 'young', 'office', 'goers', '.']
+ ------------------ 
+['Overall', 'they', 'have', 'a', 'fine', 'service', 'and', 'I', 'found', 'it', 'to', 'be', 'convenient', 'because', 'of', 'the', 'limited', 'options', 'in', 'the', 'locality.Dismal', 'experience..unhygenic', 'and', 'way', 'below', 'par', 'interms', 'of', 'average', 'kol', 'streetfood..orderd', 'chickn', 'roll', 'fr', 'me', 'nd', 'my', 'frendz', '...', 'well', 'u', 'can', 'not', 'stop', 'mentioning', 'the', 'taste', 'of', 'vinegar', 'in', 'each', 'meat', 'chunk', 'u', 'bite', '...', '.same', 'wth', 'the', 'chillichicken..the', 'gravy', 'was', 'nothing', 'but', 'a', 'salty', 'mixture', 'of', 'onion', 'pepper', 'capsicum', 'soyasause', 'dipped', 'heavily', 'in', 'vinegar', '...', '.trust', 'me', 'as', 'a', 'doc..I', 'can', 'tell', 'u', '..wth', 'that', 'much', 'vinegar', 'in', 'food..ur', 'stomach', 'is', 'gon', 'na', 'get', 'fried', '...', '2-3', 'days', 'old', 'chichen', 'stuffd', 'in', 'vinegsr', 'to', 'preserve', 'it', '...', '..guess', 'can', 'not', 'give', 'more', 'than', '1', '.']['Overall', 'they', 'have', 'a', 'fine', 'service', 'and', 'I', 'found', 'it', 'to', 'be', 'convenient', 'because', 'of', 'the', 'limited', 'options', 'in', 'the', 'locality.Dismal', 'experience..unhygenic', 'and', 'way', 'below', 'par', 'interms', 'of', 'average', 'kol', 'streetfood..orderd', 'chickn', 'roll', 'fr', 'me', 'nd', 'my', 'frendz', '...', 'well', 'u', 'can', 'not', 'stop', 'mentioning', 'the', 'taste', 'of', 'vinegar', 'in', 'each', 'meat', 'chunk', 'u', 'bite', '...', '.same', 'wth', 'the', 'chillichicken..the', 'gravy', 'was', 'nothing', 'but', 'a', 'salty', 'mixture', 'of', 'onion', 'pepper', 'capsicum', 'soyasause', 'dipped', 'heavily', 'in', 'vinegar', '...', '.trust', 'me', 'as', 'a', 'doc..I', 'can', 'tell', 'u', '..wth', 'that', 'much', 'vinegar', 'in', 'food..ur', 'stomach', 'is', 'gon', 'na', 'get', 'fried', '...', '2-3', 'days', 'old', 'chichen', 'stuffd', 'in', 'vinegsr', 'to', 'preserve', 'it', '...', '..guess', 'can', 'not', 'give', 'more', 'than', '1', '.']
+ ------------------ 
+['But', '0', '.5', 'aded', 'fr', 'locationWell', ',', 'it', 'is', 'not', 'a', 'bar', '.']['But', '0', '.5', 'aded', 'fr', 'locationWell', ',', 'it', 'is', 'not', 'a', 'bar', '.']
+ ------------------ 
+['Just', 'a', 'pretty', 'take-away', 'counter', 'which', 'makes', 'delicious', 'biryani.And', 'it', 'really', 'tastes', 'great', ',', 'and', 'is', 'inexpensive.Prefer', 'home', 'delivery', '.']['Just', 'a', 'pretty', 'take-away', 'counter', 'which', 'makes', 'delicious', 'biryani.And', 'it', 'really', 'tastes', 'great', ',', 'and', 'is', 'inexpensive.Prefer', 'home', 'delivery', '.']
+ ------------------ 
+['4/5', 'only', 'for', 'the', 'taste', ',', 'at', 'the', 'end', 'it', 'is', 'taste', 'that', 'matters', '.']['4/5', 'only', 'for', 'the', 'taste', ',', 'at', 'the', 'end', 'it', 'is', 'taste', 'that', 'matters', '.']
+ ------------------ 
