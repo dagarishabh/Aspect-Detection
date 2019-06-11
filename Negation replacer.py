@@ -5,7 +5,7 @@ from nltk.corpus import wordnet
 from nltk.metrics import edit_distance
 from nltk.corpus.reader.wordnet import WordNetCorpusReader
 from gensim.models import Word2Vec
-model = gensim.models.KeyedVectors.load_word2vec_format('C:\\Users\Mohit\Desktop\GoogleNews-vectors-negative300.bin', binary=True)  
+model = gensim.models.KeyedVectors.load_word2vec_format('C:\\Users\Daga\Desktop\GoogleNews-vectors-negative300.bin', binary=True)  
 
 replacement_patterns = [
 	(r'won\'t', 'will not'),
